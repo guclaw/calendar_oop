@@ -1,0 +1,5657 @@
+[
+    {
+        "title": "do something",
+        "location": "Krk",
+        "start_time": "26-05-2022 05:15",
+        "duration": 89,
+        "owner": "ULA",
+        "participants": []
+    },
+    {
+        "title": "drink beer",
+        "location": "Krk",
+        "start_time": "20-05-2022 11:31",
+        "duration": 565,
+        "owner": "Ala",
+        "participants": [
+            "Ala",
+            "ULA",
+            "ELA",
+            "OLA",
+            "ELA"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "Krk",
+        "start_time": "13-06-2022 00:56",
+        "duration": 77,
+        "owner": "Roman",
+        "participants": [
+            "ULA",
+            "OLA"
+        ]
+    },
+    {
+        "title": "do something",
+        "location": "Wwa",
+        "start_time": "13-06-2022 22:00",
+        "duration": 332,
+        "owner": "Ala",
+        "participants": [
+            "ELA",
+            "ULA"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "LA",
+        "start_time": "14-06-2022 18:06",
+        "duration": 221,
+        "owner": "Ala",
+        "participants": [
+            "ULA"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "Krk",
+        "start_time": "07-06-2022 16:52",
+        "duration": 207,
+        "owner": "Roman",
+        "participants": [
+            "OLA",
+            "Ala",
+            "Ala"
+        ]
+    },
+    {
+        "title": "drink beer",
+        "location": "LA",
+        "start_time": "06-06-2022 09:14",
+        "duration": 248,
+        "owner": "ULA",
+        "participants": [
+            "Ala",
+            "Ala",
+            "Ala",
+            "Ala",
+            "Roman"
+        ]
+    },
+    {
+        "title": "drink beer",
+        "location": "Krk",
+        "start_time": "17-05-2022 17:27",
+        "duration": 97,
+        "owner": "Roman",
+        "participants": [
+            "Ala"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "Wwa",
+        "start_time": "24-05-2022 18:58",
+        "duration": 478,
+        "owner": "ULA",
+        "participants": [
+            "ELA",
+            "Ala",
+            "ELA",
+            "Ala"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "Wwa",
+        "start_time": "13-06-2022 11:51",
+        "duration": 54,
+        "owner": "ULA",
+        "participants": []
+    },
+    {
+        "title": "learn python",
+        "location": "Wwa",
+        "start_time": "02-06-2022 07:35",
+        "duration": 532,
+        "owner": "Roman",
+        "participants": [
+            "Ala",
+            "Ala",
+            "OLA",
+            "ULA"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "LA",
+        "start_time": "20-05-2022 11:54",
+        "duration": 82,
+        "owner": "ELA",
+        "participants": [
+            "ULA"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "LA",
+        "start_time": "19-06-2022 00:54",
+        "duration": 108,
+        "owner": "ULA",
+        "participants": [
+            "OLA",
+            "OLA",
+            "Roman"
+        ]
+    },
+    {
+        "title": "do something",
+        "location": "LA",
+        "start_time": "16-05-2022 10:02",
+        "duration": 524,
+        "owner": "OLA",
+        "participants": [
+            "ULA",
+            "Ala",
+            "ULA",
+            "ULA",
+            "Ala"
+        ]
+    },
+    {
+        "title": "do something",
+        "location": "LA",
+        "start_time": "19-05-2022 16:00",
+        "duration": 430,
+        "owner": "ULA",
+        "participants": []
+    },
+    {
+        "title": "learn python",
+        "location": "Wwa",
+        "start_time": "06-06-2022 16:19",
+        "duration": 136,
+        "owner": "ELA",
+        "participants": [
+            "ELA",
+            "ULA"
+        ]
+    },
+    {
+        "title": "drink beer",
+        "location": "Krk",
+        "start_time": "01-06-2022 22:28",
+        "duration": 57,
+        "owner": "OLA",
+        "participants": [
+            "Roman",
+            "Roman",
+            "ULA",
+            "ULA"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "Wwa",
+        "start_time": "07-06-2022 15:23",
+        "duration": 49,
+        "owner": "Roman",
+        "participants": []
+    },
+    {
+        "title": "drink beer",
+        "location": "Krk",
+        "start_time": "28-05-2022 00:24",
+        "duration": 400,
+        "owner": "ULA",
+        "participants": [
+            "ELA",
+            "ULA",
+            "ULA",
+            "ELA"
+        ]
+    },
+    {
+        "title": "do something",
+        "location": "Wwa",
+        "start_time": "10-06-2022 08:08",
+        "duration": 49,
+        "owner": "ULA",
+        "participants": [
+            "ULA",
+            "ELA",
+            "Roman",
+            "Ala"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "Krk",
+        "start_time": "02-06-2022 16:42",
+        "duration": 314,
+        "owner": "OLA",
+        "participants": []
+    },
+    {
+        "title": "learn python",
+        "location": "Wwa",
+        "start_time": "26-05-2022 22:26",
+        "duration": 95,
+        "owner": "ULA",
+        "participants": [
+            "Ala",
+            "OLA",
+            "OLA",
+            "ELA"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "LA",
+        "start_time": "27-05-2022 23:39",
+        "duration": 214,
+        "owner": "ELA",
+        "participants": []
+    },
+    {
+        "title": "do something",
+        "location": "Wwa",
+        "start_time": "23-05-2022 14:45",
+        "duration": 150,
+        "owner": "Ala",
+        "participants": [
+            "Ala",
+            "Ala",
+            "ELA"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "Krk",
+        "start_time": "28-05-2022 05:21",
+        "duration": 104,
+        "owner": "Ala",
+        "participants": [
+            "ULA",
+            "Roman"
+        ]
+    },
+    {
+        "title": "do something",
+        "location": "LA",
+        "start_time": "26-05-2022 18:26",
+        "duration": 322,
+        "owner": "OLA",
+        "participants": [
+            "Ala",
+            "Roman"
+        ]
+    },
+    {
+        "title": "drink beer",
+        "location": "Krk",
+        "start_time": "06-06-2022 20:47",
+        "duration": 554,
+        "owner": "ELA",
+        "participants": [
+            "ULA",
+            "Roman",
+            "ULA",
+            "ULA",
+            "Roman"
+        ]
+    },
+    {
+        "title": "drink beer",
+        "location": "Krk",
+        "start_time": "18-06-2022 01:08",
+        "duration": 85,
+        "owner": "Ala",
+        "participants": [
+            "Roman",
+            "ELA"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "Wwa",
+        "start_time": "03-06-2022 06:32",
+        "duration": 20,
+        "owner": "Roman",
+        "participants": [
+            "Ala",
+            "ELA",
+            "OLA"
+        ]
+    },
+    {
+        "title": "drink beer",
+        "location": "Wwa",
+        "start_time": "17-06-2022 08:22",
+        "duration": 70,
+        "owner": "ULA",
+        "participants": [
+            "ULA",
+            "Ala",
+            "Ala"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "Krk",
+        "start_time": "16-05-2022 09:12",
+        "duration": 83,
+        "owner": "Ala",
+        "participants": [
+            "Roman"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "Krk",
+        "start_time": "20-05-2022 06:23",
+        "duration": 491,
+        "owner": "Roman",
+        "participants": []
+    },
+    {
+        "title": "learn python",
+        "location": "LA",
+        "start_time": "18-06-2022 14:00",
+        "duration": 478,
+        "owner": "ELA",
+        "participants": [
+            "ULA",
+            "Ala",
+            "ELA",
+            "Ala",
+            "ELA"
+        ]
+    },
+    {
+        "title": "do something",
+        "location": "Wwa",
+        "start_time": "18-06-2022 15:07",
+        "duration": 98,
+        "owner": "ULA",
+        "participants": [
+            "Ala",
+            "Ala",
+            "ULA"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "Wwa",
+        "start_time": "27-05-2022 06:46",
+        "duration": 515,
+        "owner": "Roman",
+        "participants": [
+            "Roman",
+            "OLA"
+        ]
+    },
+    {
+        "title": "drink beer",
+        "location": "Krk",
+        "start_time": "08-06-2022 07:15",
+        "duration": 126,
+        "owner": "ELA",
+        "participants": [
+            "ELA",
+            "Roman",
+            "OLA",
+            "Ala",
+            "OLA"
+        ]
+    },
+    {
+        "title": "drink beer",
+        "location": "Krk",
+        "start_time": "19-06-2022 18:34",
+        "duration": 580,
+        "owner": "Ala",
+        "participants": [
+            "ULA",
+            "ULA",
+            "ELA"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "Wwa",
+        "start_time": "03-06-2022 15:18",
+        "duration": 256,
+        "owner": "ELA",
+        "participants": [
+            "Roman",
+            "OLA",
+            "ELA"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "LA",
+        "start_time": "06-06-2022 16:57",
+        "duration": 103,
+        "owner": "ELA",
+        "participants": [
+            "Roman",
+            "ELA",
+            "Roman",
+            "ELA"
+        ]
+    },
+    {
+        "title": "do something",
+        "location": "LA",
+        "start_time": "13-06-2022 01:38",
+        "duration": 128,
+        "owner": "OLA",
+        "participants": [
+            "ELA",
+            "Ala",
+            "ULA",
+            "ULA",
+            "OLA"
+        ]
+    },
+    {
+        "title": "drink beer",
+        "location": "Krk",
+        "start_time": "16-06-2022 00:21",
+        "duration": 591,
+        "owner": "Roman",
+        "participants": [
+            "Ala",
+            "ELA",
+            "Roman",
+            "ULA",
+            "Ala"
+        ]
+    },
+    {
+        "title": "do something",
+        "location": "Wwa",
+        "start_time": "15-06-2022 12:09",
+        "duration": 312,
+        "owner": "ULA",
+        "participants": [
+            "Ala",
+            "ELA",
+            "Roman",
+            "ULA"
+        ]
+    },
+    {
+        "title": "drink beer",
+        "location": "Krk",
+        "start_time": "06-06-2022 19:53",
+        "duration": 444,
+        "owner": "Ala",
+        "participants": [
+            "OLA",
+            "OLA"
+        ]
+    },
+    {
+        "title": "drink beer",
+        "location": "Krk",
+        "start_time": "11-06-2022 03:46",
+        "duration": 143,
+        "owner": "Roman",
+        "participants": [
+            "Ala",
+            "Roman"
+        ]
+    },
+    {
+        "title": "drink beer",
+        "location": "Krk",
+        "start_time": "19-05-2022 21:21",
+        "duration": 29,
+        "owner": "ULA",
+        "participants": []
+    },
+    {
+        "title": "learn python",
+        "location": "Wwa",
+        "start_time": "15-06-2022 19:11",
+        "duration": 486,
+        "owner": "Ala",
+        "participants": [
+            "ULA"
+        ]
+    },
+    {
+        "title": "do something",
+        "location": "Krk",
+        "start_time": "16-06-2022 19:36",
+        "duration": 45,
+        "owner": "ULA",
+        "participants": [
+            "ULA",
+            "ULA",
+            "ELA"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "Krk",
+        "start_time": "17-05-2022 07:00",
+        "duration": 288,
+        "owner": "ULA",
+        "participants": []
+    },
+    {
+        "title": "drink beer",
+        "location": "LA",
+        "start_time": "16-06-2022 17:18",
+        "duration": 184,
+        "owner": "ULA",
+        "participants": [
+            "ULA",
+            "Ala"
+        ]
+    },
+    {
+        "title": "do something",
+        "location": "Krk",
+        "start_time": "16-06-2022 19:34",
+        "duration": 485,
+        "owner": "ELA",
+        "participants": [
+            "ELA"
+        ]
+    },
+    {
+        "title": "drink beer",
+        "location": "Wwa",
+        "start_time": "19-05-2022 19:43",
+        "duration": 83,
+        "owner": "ULA",
+        "participants": [
+            "OLA",
+            "ELA"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "Wwa",
+        "start_time": "16-06-2022 21:52",
+        "duration": 511,
+        "owner": "Ala",
+        "participants": [
+            "ULA",
+            "ELA",
+            "ULA",
+            "Ala"
+        ]
+    },
+    {
+        "title": "drink beer",
+        "location": "LA",
+        "start_time": "16-05-2022 04:33",
+        "duration": 228,
+        "owner": "Ala",
+        "participants": [
+            "Ala",
+            "ULA",
+            "OLA",
+            "Roman",
+            "ELA"
+        ]
+    },
+    {
+        "title": "do something",
+        "location": "LA",
+        "start_time": "17-06-2022 21:31",
+        "duration": 223,
+        "owner": "Roman",
+        "participants": [
+            "Roman"
+        ]
+    },
+    {
+        "title": "do something",
+        "location": "LA",
+        "start_time": "20-05-2022 15:31",
+        "duration": 550,
+        "owner": "ELA",
+        "participants": [
+            "ULA",
+            "Ala",
+            "Roman",
+            "Roman"
+        ]
+    },
+    {
+        "title": "drink beer",
+        "location": "Krk",
+        "start_time": "18-05-2022 06:45",
+        "duration": 406,
+        "owner": "OLA",
+        "participants": [
+            "ELA",
+            "OLA",
+            "Roman",
+            "Roman"
+        ]
+    },
+    {
+        "title": "do something",
+        "location": "Krk",
+        "start_time": "22-05-2022 04:54",
+        "duration": 20,
+        "owner": "Roman",
+        "participants": [
+            "ULA",
+            "OLA",
+            "ELA",
+            "Ala",
+            "ELA"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "Wwa",
+        "start_time": "13-06-2022 18:45",
+        "duration": 478,
+        "owner": "ELA",
+        "participants": [
+            "ULA",
+            "OLA",
+            "Roman",
+            "Ala"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "LA",
+        "start_time": "18-05-2022 10:33",
+        "duration": 274,
+        "owner": "Ala",
+        "participants": []
+    },
+    {
+        "title": "learn python",
+        "location": "LA",
+        "start_time": "09-06-2022 00:48",
+        "duration": 460,
+        "owner": "ELA",
+        "participants": []
+    },
+    {
+        "title": "do something",
+        "location": "Krk",
+        "start_time": "09-06-2022 08:08",
+        "duration": 349,
+        "owner": "OLA",
+        "participants": [
+            "Ala",
+            "Ala"
+        ]
+    },
+    {
+        "title": "drink beer",
+        "location": "Wwa",
+        "start_time": "04-06-2022 21:11",
+        "duration": 47,
+        "owner": "OLA",
+        "participants": [
+            "Roman"
+        ]
+    },
+    {
+        "title": "drink beer",
+        "location": "LA",
+        "start_time": "31-05-2022 07:49",
+        "duration": 522,
+        "owner": "Ala",
+        "participants": [
+            "Roman"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "Wwa",
+        "start_time": "30-05-2022 22:38",
+        "duration": 260,
+        "owner": "Roman",
+        "participants": [
+            "Ala",
+            "ULA",
+            "ELA",
+            "Ala",
+            "Ala"
+        ]
+    },
+    {
+        "title": "do something",
+        "location": "LA",
+        "start_time": "05-06-2022 22:10",
+        "duration": 203,
+        "owner": "ULA",
+        "participants": [
+            "Roman"
+        ]
+    },
+    {
+        "title": "do something",
+        "location": "LA",
+        "start_time": "09-06-2022 14:00",
+        "duration": 241,
+        "owner": "ULA",
+        "participants": [
+            "Ala",
+            "OLA"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "Wwa",
+        "start_time": "06-06-2022 01:17",
+        "duration": 458,
+        "owner": "ULA",
+        "participants": [
+            "OLA",
+            "ELA",
+            "Roman",
+            "Roman",
+            "ELA"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "Wwa",
+        "start_time": "26-05-2022 03:55",
+        "duration": 275,
+        "owner": "Roman",
+        "participants": [
+            "OLA",
+            "ULA",
+            "Roman"
+        ]
+    },
+    {
+        "title": "drink beer",
+        "location": "Krk",
+        "start_time": "21-05-2022 02:49",
+        "duration": 308,
+        "owner": "ULA",
+        "participants": [
+            "Roman",
+            "ELA"
+        ]
+    },
+    {
+        "title": "do something",
+        "location": "LA",
+        "start_time": "27-05-2022 16:33",
+        "duration": 214,
+        "owner": "ELA",
+        "participants": []
+    },
+    {
+        "title": "do something",
+        "location": "Wwa",
+        "start_time": "24-05-2022 14:31",
+        "duration": 551,
+        "owner": "ULA",
+        "participants": []
+    },
+    {
+        "title": "learn python",
+        "location": "LA",
+        "start_time": "14-06-2022 19:33",
+        "duration": 468,
+        "owner": "Ala",
+        "participants": [
+            "Roman",
+            "ELA"
+        ]
+    },
+    {
+        "title": "drink beer",
+        "location": "Wwa",
+        "start_time": "06-06-2022 13:54",
+        "duration": 115,
+        "owner": "ELA",
+        "participants": [
+            "ULA",
+            "ELA"
+        ]
+    },
+    {
+        "title": "do something",
+        "location": "Krk",
+        "start_time": "29-05-2022 04:30",
+        "duration": 42,
+        "owner": "OLA",
+        "participants": [
+            "ELA",
+            "OLA",
+            "Roman",
+            "Ala"
+        ]
+    },
+    {
+        "title": "do something",
+        "location": "Krk",
+        "start_time": "14-06-2022 01:32",
+        "duration": 202,
+        "owner": "Ala",
+        "participants": [
+            "OLA"
+        ]
+    },
+    {
+        "title": "drink beer",
+        "location": "Wwa",
+        "start_time": "25-05-2022 05:47",
+        "duration": 202,
+        "owner": "ELA",
+        "participants": []
+    },
+    {
+        "title": "learn python",
+        "location": "LA",
+        "start_time": "10-06-2022 22:40",
+        "duration": 232,
+        "owner": "Ala",
+        "participants": [
+            "Ala",
+            "Roman",
+            "OLA"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "Krk",
+        "start_time": "14-06-2022 23:51",
+        "duration": 252,
+        "owner": "ULA",
+        "participants": [
+            "Ala",
+            "ELA",
+            "OLA"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "Wwa",
+        "start_time": "04-06-2022 20:22",
+        "duration": 171,
+        "owner": "Ala",
+        "participants": [
+            "OLA",
+            "OLA",
+            "ELA",
+            "OLA"
+        ]
+    },
+    {
+        "title": "do something",
+        "location": "Wwa",
+        "start_time": "08-06-2022 20:24",
+        "duration": 576,
+        "owner": "Ala",
+        "participants": [
+            "OLA",
+            "Ala",
+            "OLA",
+            "Roman"
+        ]
+    },
+    {
+        "title": "do something",
+        "location": "Krk",
+        "start_time": "24-05-2022 22:41",
+        "duration": 27,
+        "owner": "OLA",
+        "participants": [
+            "ULA",
+            "Ala",
+            "Ala",
+            "Ala",
+            "Roman"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "Krk",
+        "start_time": "11-06-2022 19:35",
+        "duration": 161,
+        "owner": "ELA",
+        "participants": [
+            "ELA",
+            "Roman"
+        ]
+    },
+    {
+        "title": "drink beer",
+        "location": "Wwa",
+        "start_time": "27-05-2022 13:41",
+        "duration": 63,
+        "owner": "Roman",
+        "participants": []
+    },
+    {
+        "title": "do something",
+        "location": "Wwa",
+        "start_time": "21-05-2022 17:52",
+        "duration": 71,
+        "owner": "ULA",
+        "participants": [
+            "ELA",
+            "ULA"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "LA",
+        "start_time": "31-05-2022 22:57",
+        "duration": 496,
+        "owner": "ELA",
+        "participants": [
+            "ULA",
+            "OLA",
+            "Roman",
+            "ULA",
+            "OLA"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "Wwa",
+        "start_time": "24-05-2022 15:19",
+        "duration": 234,
+        "owner": "Roman",
+        "participants": [
+            "ULA",
+            "Roman",
+            "ULA",
+            "ELA",
+            "ELA"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "LA",
+        "start_time": "04-06-2022 05:14",
+        "duration": 197,
+        "owner": "ULA",
+        "participants": [
+            "Roman"
+        ]
+    },
+    {
+        "title": "drink beer",
+        "location": "LA",
+        "start_time": "28-05-2022 10:11",
+        "duration": 132,
+        "owner": "OLA",
+        "participants": [
+            "Roman",
+            "OLA",
+            "OLA"
+        ]
+    },
+    {
+        "title": "do something",
+        "location": "LA",
+        "start_time": "16-05-2022 23:55",
+        "duration": 233,
+        "owner": "ULA",
+        "participants": [
+            "ULA",
+            "Roman",
+            "OLA",
+            "Roman"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "LA",
+        "start_time": "30-05-2022 20:19",
+        "duration": 274,
+        "owner": "ULA",
+        "participants": [
+            "OLA",
+            "Ala",
+            "ULA",
+            "Ala",
+            "Roman"
+        ]
+    },
+    {
+        "title": "do something",
+        "location": "Wwa",
+        "start_time": "18-05-2022 20:50",
+        "duration": 355,
+        "owner": "ELA",
+        "participants": [
+            "OLA",
+            "OLA",
+            "ELA"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "Krk",
+        "start_time": "08-06-2022 18:47",
+        "duration": 100,
+        "owner": "ULA",
+        "participants": [
+            "Roman",
+            "ELA",
+            "Roman",
+            "ELA"
+        ]
+    },
+    {
+        "title": "drink beer",
+        "location": "Krk",
+        "start_time": "24-05-2022 11:44",
+        "duration": 78,
+        "owner": "ULA",
+        "participants": []
+    },
+    {
+        "title": "learn python",
+        "location": "Krk",
+        "start_time": "01-06-2022 23:55",
+        "duration": 308,
+        "owner": "ULA",
+        "participants": [
+            "Ala",
+            "OLA",
+            "Roman",
+            "ELA"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "LA",
+        "start_time": "18-06-2022 16:56",
+        "duration": 249,
+        "owner": "Ala",
+        "participants": [
+            "Roman",
+            "ULA"
+        ]
+    },
+    {
+        "title": "drink beer",
+        "location": "Wwa",
+        "start_time": "02-06-2022 11:46",
+        "duration": 337,
+        "owner": "ULA",
+        "participants": [
+            "ELA",
+            "ELA"
+        ]
+    },
+    {
+        "title": "drink beer",
+        "location": "Krk",
+        "start_time": "19-05-2022 01:32",
+        "duration": 54,
+        "owner": "Roman",
+        "participants": [
+            "Roman",
+            "ELA",
+            "Ala",
+            "ELA",
+            "ELA"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "Wwa",
+        "start_time": "18-06-2022 22:45",
+        "duration": 123,
+        "owner": "OLA",
+        "participants": [
+            "ULA"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "Krk",
+        "start_time": "03-06-2022 19:35",
+        "duration": 80,
+        "owner": "Ala",
+        "participants": [
+            "ULA",
+            "Roman",
+            "ELA",
+            "ELA"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "LA",
+        "start_time": "11-06-2022 11:55",
+        "duration": 479,
+        "owner": "Ala",
+        "participants": [
+            "Roman",
+            "Ala"
+        ]
+    },
+    {
+        "title": "drink beer",
+        "location": "LA",
+        "start_time": "27-05-2022 13:51",
+        "duration": 392,
+        "owner": "Roman",
+        "participants": []
+    },
+    {
+        "title": "drink beer",
+        "location": "LA",
+        "start_time": "17-05-2022 18:18",
+        "duration": 408,
+        "owner": "Roman",
+        "participants": [
+            "OLA",
+            "Roman",
+            "OLA"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "LA",
+        "start_time": "25-05-2022 21:09",
+        "duration": 50,
+        "owner": "Ala",
+        "participants": []
+    },
+    {
+        "title": "drink beer",
+        "location": "Wwa",
+        "start_time": "03-06-2022 21:19",
+        "duration": 211,
+        "owner": "OLA",
+        "participants": [
+            "Roman",
+            "ULA",
+            "Roman",
+            "Ala",
+            "Ala"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "Wwa",
+        "start_time": "16-05-2022 03:56",
+        "duration": 466,
+        "owner": "ELA",
+        "participants": [
+            "Ala",
+            "Roman",
+            "Roman",
+            "OLA",
+            "Roman"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "LA",
+        "start_time": "31-05-2022 14:01",
+        "duration": 187,
+        "owner": "Roman",
+        "participants": []
+    },
+    {
+        "title": "drink beer",
+        "location": "Wwa",
+        "start_time": "03-06-2022 17:00",
+        "duration": 52,
+        "owner": "Ala",
+        "participants": [
+            "Roman"
+        ]
+    },
+    {
+        "title": "do something",
+        "location": "Wwa",
+        "start_time": "16-05-2022 13:56",
+        "duration": 245,
+        "owner": "OLA",
+        "participants": [
+            "ULA"
+        ]
+    },
+    {
+        "title": "do something",
+        "location": "Krk",
+        "start_time": "17-06-2022 08:18",
+        "duration": 515,
+        "owner": "Ala",
+        "participants": [
+            "ELA"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "LA",
+        "start_time": "01-06-2022 10:52",
+        "duration": 549,
+        "owner": "ULA",
+        "participants": [
+            "Ala",
+            "Roman",
+            "ULA",
+            "OLA"
+        ]
+    },
+    {
+        "title": "drink beer",
+        "location": "LA",
+        "start_time": "08-06-2022 17:11",
+        "duration": 46,
+        "owner": "Ala",
+        "participants": [
+            "Roman",
+            "Ala",
+            "Ala",
+            "ULA",
+            "OLA"
+        ]
+    },
+    {
+        "title": "do something",
+        "location": "Wwa",
+        "start_time": "18-06-2022 10:49",
+        "duration": 159,
+        "owner": "Roman",
+        "participants": [
+            "Roman"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "LA",
+        "start_time": "26-05-2022 21:57",
+        "duration": 565,
+        "owner": "Ala",
+        "participants": [
+            "ULA",
+            "Roman",
+            "ULA",
+            "OLA"
+        ]
+    },
+    {
+        "title": "drink beer",
+        "location": "Krk",
+        "start_time": "11-06-2022 15:31",
+        "duration": 368,
+        "owner": "ELA",
+        "participants": [
+            "Roman",
+            "Ala"
+        ]
+    },
+    {
+        "title": "drink beer",
+        "location": "Wwa",
+        "start_time": "16-05-2022 14:04",
+        "duration": 71,
+        "owner": "Roman",
+        "participants": [
+            "ELA",
+            "ELA",
+            "Roman",
+            "ULA"
+        ]
+    },
+    {
+        "title": "do something",
+        "location": "Krk",
+        "start_time": "15-06-2022 20:30",
+        "duration": 58,
+        "owner": "OLA",
+        "participants": [
+            "ULA",
+            "Ala"
+        ]
+    },
+    {
+        "title": "drink beer",
+        "location": "LA",
+        "start_time": "14-06-2022 15:35",
+        "duration": 442,
+        "owner": "OLA",
+        "participants": [
+            "ELA",
+            "ELA"
+        ]
+    },
+    {
+        "title": "drink beer",
+        "location": "LA",
+        "start_time": "05-06-2022 04:42",
+        "duration": 487,
+        "owner": "ELA",
+        "participants": []
+    },
+    {
+        "title": "drink beer",
+        "location": "Wwa",
+        "start_time": "21-05-2022 04:58",
+        "duration": 376,
+        "owner": "Roman",
+        "participants": [
+            "Roman",
+            "Roman",
+            "ULA",
+            "OLA"
+        ]
+    },
+    {
+        "title": "drink beer",
+        "location": "LA",
+        "start_time": "21-05-2022 22:52",
+        "duration": 62,
+        "owner": "Ala",
+        "participants": [
+            "Roman",
+            "Ala",
+            "OLA",
+            "Ala",
+            "Roman"
+        ]
+    },
+    {
+        "title": "drink beer",
+        "location": "Wwa",
+        "start_time": "24-05-2022 21:41",
+        "duration": 503,
+        "owner": "Roman",
+        "participants": [
+            "ULA",
+            "ELA",
+            "Ala"
+        ]
+    },
+    {
+        "title": "do something",
+        "location": "Wwa",
+        "start_time": "08-06-2022 06:43",
+        "duration": 299,
+        "owner": "OLA",
+        "participants": [
+            "Ala",
+            "OLA"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "Wwa",
+        "start_time": "22-05-2022 10:15",
+        "duration": 348,
+        "owner": "ELA",
+        "participants": [
+            "OLA",
+            "Ala",
+            "Ala",
+            "ULA"
+        ]
+    },
+    {
+        "title": "do something",
+        "location": "Wwa",
+        "start_time": "06-06-2022 03:21",
+        "duration": 382,
+        "owner": "ELA",
+        "participants": [
+            "Ala",
+            "Ala"
+        ]
+    },
+    {
+        "title": "do something",
+        "location": "Krk",
+        "start_time": "12-06-2022 12:04",
+        "duration": 80,
+        "owner": "Roman",
+        "participants": []
+    },
+    {
+        "title": "drink beer",
+        "location": "Krk",
+        "start_time": "19-06-2022 06:22",
+        "duration": 519,
+        "owner": "ELA",
+        "participants": [
+            "ELA",
+            "ULA",
+            "Ala",
+            "OLA",
+            "OLA"
+        ]
+    },
+    {
+        "title": "do something",
+        "location": "Krk",
+        "start_time": "09-06-2022 09:01",
+        "duration": 418,
+        "owner": "ULA",
+        "participants": [
+            "Ala"
+        ]
+    },
+    {
+        "title": "do something",
+        "location": "Wwa",
+        "start_time": "25-05-2022 14:06",
+        "duration": 172,
+        "owner": "OLA",
+        "participants": []
+    },
+    {
+        "title": "learn python",
+        "location": "Wwa",
+        "start_time": "08-06-2022 08:25",
+        "duration": 179,
+        "owner": "Roman",
+        "participants": [
+            "Roman"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "Krk",
+        "start_time": "10-06-2022 08:36",
+        "duration": 499,
+        "owner": "Ala",
+        "participants": [
+            "Ala",
+            "ULA",
+            "Roman"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "LA",
+        "start_time": "17-06-2022 18:50",
+        "duration": 238,
+        "owner": "ELA",
+        "participants": [
+            "Roman",
+            "ULA",
+            "ULA",
+            "Roman",
+            "ULA"
+        ]
+    },
+    {
+        "title": "do something",
+        "location": "LA",
+        "start_time": "14-06-2022 23:13",
+        "duration": 371,
+        "owner": "ULA",
+        "participants": [
+            "OLA",
+            "ULA",
+            "Ala",
+            "Ala",
+            "ULA"
+        ]
+    },
+    {
+        "title": "do something",
+        "location": "LA",
+        "start_time": "19-05-2022 04:41",
+        "duration": 192,
+        "owner": "ELA",
+        "participants": [
+            "OLA",
+            "ULA",
+            "OLA",
+            "Ala",
+            "Ala"
+        ]
+    },
+    {
+        "title": "drink beer",
+        "location": "Krk",
+        "start_time": "08-06-2022 09:36",
+        "duration": 361,
+        "owner": "Ala",
+        "participants": []
+    },
+    {
+        "title": "do something",
+        "location": "Krk",
+        "start_time": "11-06-2022 12:52",
+        "duration": 224,
+        "owner": "OLA",
+        "participants": [
+            "ULA",
+            "ELA",
+            "ELA",
+            "Roman",
+            "Roman"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "Krk",
+        "start_time": "14-06-2022 15:09",
+        "duration": 594,
+        "owner": "ELA",
+        "participants": [
+            "Roman"
+        ]
+    },
+    {
+        "title": "do something",
+        "location": "LA",
+        "start_time": "23-05-2022 11:44",
+        "duration": 542,
+        "owner": "Ala",
+        "participants": [
+            "Ala",
+            "ULA",
+            "ULA"
+        ]
+    },
+    {
+        "title": "do something",
+        "location": "Krk",
+        "start_time": "05-06-2022 21:48",
+        "duration": 442,
+        "owner": "OLA",
+        "participants": [
+            "ELA",
+            "Ala"
+        ]
+    },
+    {
+        "title": "drink beer",
+        "location": "LA",
+        "start_time": "08-06-2022 15:12",
+        "duration": 171,
+        "owner": "ULA",
+        "participants": [
+            "ELA",
+            "Roman",
+            "Roman"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "Krk",
+        "start_time": "31-05-2022 01:56",
+        "duration": 36,
+        "owner": "ULA",
+        "participants": [
+            "Ala",
+            "OLA"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "Krk",
+        "start_time": "17-06-2022 10:30",
+        "duration": 436,
+        "owner": "Ala",
+        "participants": [
+            "OLA"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "Wwa",
+        "start_time": "18-06-2022 23:04",
+        "duration": 596,
+        "owner": "Ala",
+        "participants": []
+    },
+    {
+        "title": "do something",
+        "location": "Wwa",
+        "start_time": "18-05-2022 00:57",
+        "duration": 104,
+        "owner": "OLA",
+        "participants": [
+            "OLA",
+            "Ala",
+            "Ala",
+            "Roman",
+            "ELA"
+        ]
+    },
+    {
+        "title": "drink beer",
+        "location": "LA",
+        "start_time": "18-05-2022 06:30",
+        "duration": 188,
+        "owner": "ELA",
+        "participants": [
+            "OLA",
+            "OLA"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "LA",
+        "start_time": "13-06-2022 04:32",
+        "duration": 469,
+        "owner": "Roman",
+        "participants": [
+            "ELA"
+        ]
+    },
+    {
+        "title": "drink beer",
+        "location": "Krk",
+        "start_time": "14-06-2022 16:38",
+        "duration": 563,
+        "owner": "ELA",
+        "participants": [
+            "Roman"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "Krk",
+        "start_time": "14-06-2022 17:19",
+        "duration": 538,
+        "owner": "ULA",
+        "participants": [
+            "Roman",
+            "ELA"
+        ]
+    },
+    {
+        "title": "drink beer",
+        "location": "LA",
+        "start_time": "23-05-2022 09:02",
+        "duration": 374,
+        "owner": "ELA",
+        "participants": [
+            "Roman",
+            "ULA",
+            "Roman"
+        ]
+    },
+    {
+        "title": "drink beer",
+        "location": "Krk",
+        "start_time": "22-05-2022 21:47",
+        "duration": 286,
+        "owner": "Ala",
+        "participants": [
+            "Ala",
+            "Ala",
+            "Ala",
+            "OLA"
+        ]
+    },
+    {
+        "title": "do something",
+        "location": "Wwa",
+        "start_time": "03-06-2022 04:32",
+        "duration": 490,
+        "owner": "OLA",
+        "participants": [
+            "Roman",
+            "ELA",
+            "Ala",
+            "Roman",
+            "Roman"
+        ]
+    },
+    {
+        "title": "do something",
+        "location": "LA",
+        "start_time": "18-05-2022 19:04",
+        "duration": 385,
+        "owner": "Roman",
+        "participants": [
+            "ELA",
+            "ULA"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "Wwa",
+        "start_time": "04-06-2022 13:01",
+        "duration": 150,
+        "owner": "ELA",
+        "participants": [
+            "ELA"
+        ]
+    },
+    {
+        "title": "drink beer",
+        "location": "Wwa",
+        "start_time": "18-05-2022 02:44",
+        "duration": 541,
+        "owner": "Ala",
+        "participants": [
+            "OLA"
+        ]
+    },
+    {
+        "title": "drink beer",
+        "location": "Krk",
+        "start_time": "22-05-2022 08:32",
+        "duration": 446,
+        "owner": "Roman",
+        "participants": [
+            "Ala",
+            "ULA",
+            "Roman",
+            "ULA",
+            "ULA"
+        ]
+    },
+    {
+        "title": "do something",
+        "location": "LA",
+        "start_time": "16-05-2022 07:01",
+        "duration": 336,
+        "owner": "Ala",
+        "participants": [
+            "Roman"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "LA",
+        "start_time": "13-06-2022 03:24",
+        "duration": 254,
+        "owner": "Roman",
+        "participants": [
+            "ULA",
+            "OLA",
+            "ELA",
+            "ELA"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "Wwa",
+        "start_time": "20-05-2022 13:31",
+        "duration": 445,
+        "owner": "Ala",
+        "participants": [
+            "Roman"
+        ]
+    },
+    {
+        "title": "drink beer",
+        "location": "Krk",
+        "start_time": "27-05-2022 17:48",
+        "duration": 535,
+        "owner": "ELA",
+        "participants": [
+            "ULA",
+            "OLA",
+            "OLA",
+            "Roman"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "LA",
+        "start_time": "09-06-2022 08:39",
+        "duration": 152,
+        "owner": "Roman",
+        "participants": []
+    },
+    {
+        "title": "learn python",
+        "location": "Wwa",
+        "start_time": "30-05-2022 23:25",
+        "duration": 368,
+        "owner": "Roman",
+        "participants": []
+    },
+    {
+        "title": "learn python",
+        "location": "Wwa",
+        "start_time": "11-06-2022 16:29",
+        "duration": 489,
+        "owner": "ELA",
+        "participants": []
+    },
+    {
+        "title": "drink beer",
+        "location": "Krk",
+        "start_time": "08-06-2022 10:50",
+        "duration": 171,
+        "owner": "ULA",
+        "participants": [
+            "ULA",
+            "ULA",
+            "ELA",
+            "Roman",
+            "OLA"
+        ]
+    },
+    {
+        "title": "drink beer",
+        "location": "Wwa",
+        "start_time": "15-06-2022 05:30",
+        "duration": 200,
+        "owner": "Ala",
+        "participants": [
+            "ULA"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "Krk",
+        "start_time": "14-06-2022 10:35",
+        "duration": 546,
+        "owner": "OLA",
+        "participants": [
+            "Ala",
+            "OLA",
+            "ELA",
+            "ELA"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "Wwa",
+        "start_time": "05-06-2022 01:51",
+        "duration": 486,
+        "owner": "OLA",
+        "participants": [
+            "Roman"
+        ]
+    },
+    {
+        "title": "drink beer",
+        "location": "Wwa",
+        "start_time": "21-05-2022 04:43",
+        "duration": 460,
+        "owner": "OLA",
+        "participants": [
+            "OLA",
+            "Ala",
+            "OLA",
+            "ULA"
+        ]
+    },
+    {
+        "title": "drink beer",
+        "location": "Wwa",
+        "start_time": "05-06-2022 08:11",
+        "duration": 446,
+        "owner": "ELA",
+        "participants": [
+            "ELA",
+            "OLA",
+            "OLA",
+            "ULA",
+            "ELA"
+        ]
+    },
+    {
+        "title": "do something",
+        "location": "Krk",
+        "start_time": "25-05-2022 23:33",
+        "duration": 86,
+        "owner": "ULA",
+        "participants": [
+            "Ala",
+            "Roman",
+            "ELA"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "Wwa",
+        "start_time": "07-06-2022 11:29",
+        "duration": 163,
+        "owner": "Roman",
+        "participants": [
+            "Ala",
+            "Roman",
+            "Roman"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "Wwa",
+        "start_time": "04-06-2022 20:31",
+        "duration": 486,
+        "owner": "Ala",
+        "participants": [
+            "ELA",
+            "Roman"
+        ]
+    },
+    {
+        "title": "do something",
+        "location": "Wwa",
+        "start_time": "29-05-2022 18:19",
+        "duration": 321,
+        "owner": "Roman",
+        "participants": [
+            "ELA",
+            "OLA",
+            "Ala"
+        ]
+    },
+    {
+        "title": "drink beer",
+        "location": "Wwa",
+        "start_time": "08-06-2022 13:01",
+        "duration": 455,
+        "owner": "OLA",
+        "participants": [
+            "ELA"
+        ]
+    },
+    {
+        "title": "do something",
+        "location": "Krk",
+        "start_time": "31-05-2022 19:41",
+        "duration": 154,
+        "owner": "OLA",
+        "participants": [
+            "ULA",
+            "Ala"
+        ]
+    },
+    {
+        "title": "drink beer",
+        "location": "Krk",
+        "start_time": "07-06-2022 22:02",
+        "duration": 380,
+        "owner": "ULA",
+        "participants": [
+            "Ala",
+            "ELA",
+            "Ala"
+        ]
+    },
+    {
+        "title": "drink beer",
+        "location": "Krk",
+        "start_time": "21-05-2022 19:18",
+        "duration": 151,
+        "owner": "ULA",
+        "participants": [
+            "Roman"
+        ]
+    },
+    {
+        "title": "do something",
+        "location": "LA",
+        "start_time": "10-06-2022 05:29",
+        "duration": 50,
+        "owner": "OLA",
+        "participants": [
+            "ELA",
+            "ULA",
+            "Ala"
+        ]
+    },
+    {
+        "title": "do something",
+        "location": "Krk",
+        "start_time": "18-05-2022 03:45",
+        "duration": 339,
+        "owner": "Ala",
+        "participants": [
+            "Ala",
+            "Roman",
+            "ELA"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "LA",
+        "start_time": "12-06-2022 09:03",
+        "duration": 54,
+        "owner": "Ala",
+        "participants": [
+            "Ala",
+            "OLA",
+            "Roman",
+            "OLA",
+            "OLA"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "Wwa",
+        "start_time": "17-06-2022 01:35",
+        "duration": 478,
+        "owner": "Roman",
+        "participants": [
+            "Ala",
+            "OLA"
+        ]
+    },
+    {
+        "title": "drink beer",
+        "location": "LA",
+        "start_time": "03-06-2022 03:01",
+        "duration": 418,
+        "owner": "Roman",
+        "participants": [
+            "ULA",
+            "Roman"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "LA",
+        "start_time": "30-05-2022 16:46",
+        "duration": 415,
+        "owner": "ULA",
+        "participants": [
+            "ELA",
+            "ULA",
+            "Roman"
+        ]
+    },
+    {
+        "title": "do something",
+        "location": "Wwa",
+        "start_time": "06-06-2022 21:31",
+        "duration": 363,
+        "owner": "Roman",
+        "participants": [
+            "Ala",
+            "ULA"
+        ]
+    },
+    {
+        "title": "drink beer",
+        "location": "Krk",
+        "start_time": "29-05-2022 03:06",
+        "duration": 31,
+        "owner": "ULA",
+        "participants": [
+            "ELA",
+            "Ala",
+            "Ala",
+            "OLA",
+            "OLA"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "LA",
+        "start_time": "02-06-2022 08:56",
+        "duration": 372,
+        "owner": "ELA",
+        "participants": [
+            "OLA",
+            "Ala"
+        ]
+    },
+    {
+        "title": "drink beer",
+        "location": "Wwa",
+        "start_time": "08-06-2022 06:48",
+        "duration": 278,
+        "owner": "ELA",
+        "participants": [
+            "Roman",
+            "ULA",
+            "ELA"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "LA",
+        "start_time": "04-06-2022 09:57",
+        "duration": 115,
+        "owner": "ULA",
+        "participants": [
+            "Roman",
+            "ULA",
+            "Roman"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "LA",
+        "start_time": "11-06-2022 18:29",
+        "duration": 496,
+        "owner": "ELA",
+        "participants": []
+    },
+    {
+        "title": "drink beer",
+        "location": "Wwa",
+        "start_time": "19-06-2022 06:52",
+        "duration": 117,
+        "owner": "Ala",
+        "participants": [
+            "Roman",
+            "ULA",
+            "ELA",
+            "Ala",
+            "Ala"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "LA",
+        "start_time": "11-06-2022 07:58",
+        "duration": 217,
+        "owner": "Ala",
+        "participants": [
+            "Roman"
+        ]
+    },
+    {
+        "title": "do something",
+        "location": "Wwa",
+        "start_time": "20-05-2022 01:10",
+        "duration": 132,
+        "owner": "OLA",
+        "participants": [
+            "Ala",
+            "Ala",
+            "Ala"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "LA",
+        "start_time": "12-06-2022 01:30",
+        "duration": 523,
+        "owner": "Ala",
+        "participants": [
+            "ULA",
+            "ULA",
+            "Roman",
+            "Roman"
+        ]
+    },
+    {
+        "title": "drink beer",
+        "location": "Krk",
+        "start_time": "01-06-2022 13:01",
+        "duration": 301,
+        "owner": "Roman",
+        "participants": [
+            "Ala",
+            "Ala",
+            "ULA",
+            "ELA"
+        ]
+    },
+    {
+        "title": "drink beer",
+        "location": "LA",
+        "start_time": "17-06-2022 11:15",
+        "duration": 56,
+        "owner": "ULA",
+        "participants": [
+            "ELA",
+            "ULA"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "Krk",
+        "start_time": "31-05-2022 22:57",
+        "duration": 402,
+        "owner": "Ala",
+        "participants": [
+            "Ala",
+            "Roman",
+            "Roman",
+            "Ala",
+            "Roman"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "Krk",
+        "start_time": "17-05-2022 23:19",
+        "duration": 184,
+        "owner": "ELA",
+        "participants": [
+            "Ala"
+        ]
+    },
+    {
+        "title": "do something",
+        "location": "Wwa",
+        "start_time": "13-06-2022 23:14",
+        "duration": 530,
+        "owner": "ULA",
+        "participants": [
+            "Ala",
+            "ULA"
+        ]
+    },
+    {
+        "title": "do something",
+        "location": "LA",
+        "start_time": "18-06-2022 13:07",
+        "duration": 143,
+        "owner": "ELA",
+        "participants": [
+            "Roman",
+            "OLA",
+            "Ala",
+            "Ala"
+        ]
+    },
+    {
+        "title": "drink beer",
+        "location": "Wwa",
+        "start_time": "28-05-2022 07:07",
+        "duration": 71,
+        "owner": "Ala",
+        "participants": [
+            "Ala",
+            "Roman",
+            "OLA",
+            "ELA",
+            "Roman"
+        ]
+    },
+    {
+        "title": "drink beer",
+        "location": "Wwa",
+        "start_time": "21-05-2022 05:27",
+        "duration": 452,
+        "owner": "ELA",
+        "participants": [
+            "Ala",
+            "ELA",
+            "OLA",
+            "OLA"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "Wwa",
+        "start_time": "16-05-2022 14:13",
+        "duration": 216,
+        "owner": "OLA",
+        "participants": [
+            "Roman",
+            "Ala",
+            "Ala"
+        ]
+    },
+    {
+        "title": "do something",
+        "location": "LA",
+        "start_time": "08-06-2022 22:06",
+        "duration": 227,
+        "owner": "Roman",
+        "participants": [
+            "OLA",
+            "OLA",
+            "Roman",
+            "ELA"
+        ]
+    },
+    {
+        "title": "drink beer",
+        "location": "LA",
+        "start_time": "24-05-2022 05:25",
+        "duration": 565,
+        "owner": "Ala",
+        "participants": []
+    },
+    {
+        "title": "drink beer",
+        "location": "Krk",
+        "start_time": "04-06-2022 16:58",
+        "duration": 378,
+        "owner": "Ala",
+        "participants": [
+            "OLA",
+            "ULA"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "LA",
+        "start_time": "14-06-2022 13:16",
+        "duration": 416,
+        "owner": "ELA",
+        "participants": []
+    },
+    {
+        "title": "drink beer",
+        "location": "Krk",
+        "start_time": "01-06-2022 07:55",
+        "duration": 535,
+        "owner": "ULA",
+        "participants": [
+            "ELA",
+            "Ala",
+            "ULA",
+            "Ala",
+            "ELA"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "Wwa",
+        "start_time": "16-06-2022 16:49",
+        "duration": 77,
+        "owner": "Roman",
+        "participants": [
+            "Ala",
+            "ELA",
+            "ULA",
+            "ELA",
+            "OLA"
+        ]
+    },
+    {
+        "title": "do something",
+        "location": "Wwa",
+        "start_time": "05-06-2022 04:10",
+        "duration": 461,
+        "owner": "Ala",
+        "participants": [
+            "ULA",
+            "Roman"
+        ]
+    },
+    {
+        "title": "do something",
+        "location": "Krk",
+        "start_time": "07-06-2022 19:54",
+        "duration": 438,
+        "owner": "ULA",
+        "participants": [
+            "Roman",
+            "OLA",
+            "ULA"
+        ]
+    },
+    {
+        "title": "drink beer",
+        "location": "Wwa",
+        "start_time": "14-06-2022 10:18",
+        "duration": 392,
+        "owner": "OLA",
+        "participants": [
+            "Roman"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "Wwa",
+        "start_time": "14-06-2022 00:39",
+        "duration": 227,
+        "owner": "ULA",
+        "participants": [
+            "Ala",
+            "OLA",
+            "OLA",
+            "ULA"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "Krk",
+        "start_time": "17-06-2022 22:49",
+        "duration": 162,
+        "owner": "ULA",
+        "participants": [
+            "ULA",
+            "Ala",
+            "Ala",
+            "Ala",
+            "Ala"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "LA",
+        "start_time": "05-06-2022 01:43",
+        "duration": 583,
+        "owner": "ULA",
+        "participants": []
+    },
+    {
+        "title": "drink beer",
+        "location": "Krk",
+        "start_time": "26-05-2022 09:13",
+        "duration": 542,
+        "owner": "ELA",
+        "participants": [
+            "ULA",
+            "OLA"
+        ]
+    },
+    {
+        "title": "do something",
+        "location": "Krk",
+        "start_time": "18-06-2022 16:37",
+        "duration": 201,
+        "owner": "OLA",
+        "participants": [
+            "Roman",
+            "Roman",
+            "ULA",
+            "Ala",
+            "Ala"
+        ]
+    },
+    {
+        "title": "do something",
+        "location": "Krk",
+        "start_time": "11-06-2022 09:31",
+        "duration": 56,
+        "owner": "ULA",
+        "participants": [
+            "ELA",
+            "Roman"
+        ]
+    },
+    {
+        "title": "do something",
+        "location": "Krk",
+        "start_time": "22-05-2022 00:09",
+        "duration": 353,
+        "owner": "ELA",
+        "participants": [
+            "Roman"
+        ]
+    },
+    {
+        "title": "drink beer",
+        "location": "LA",
+        "start_time": "12-06-2022 22:57",
+        "duration": 296,
+        "owner": "ULA",
+        "participants": [
+            "ULA",
+            "ULA",
+            "Ala",
+            "OLA"
+        ]
+    },
+    {
+        "title": "do something",
+        "location": "Krk",
+        "start_time": "03-06-2022 00:57",
+        "duration": 315,
+        "owner": "ELA",
+        "participants": [
+            "Roman",
+            "ELA",
+            "ULA",
+            "ELA",
+            "Roman"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "Krk",
+        "start_time": "28-05-2022 02:40",
+        "duration": 172,
+        "owner": "Roman",
+        "participants": []
+    },
+    {
+        "title": "do something",
+        "location": "Wwa",
+        "start_time": "23-05-2022 22:15",
+        "duration": 450,
+        "owner": "Roman",
+        "participants": [
+            "OLA",
+            "Roman",
+            "ELA",
+            "Roman",
+            "OLA"
+        ]
+    },
+    {
+        "title": "drink beer",
+        "location": "LA",
+        "start_time": "06-06-2022 16:15",
+        "duration": 407,
+        "owner": "OLA",
+        "participants": [
+            "Ala",
+            "ULA"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "Wwa",
+        "start_time": "16-06-2022 02:29",
+        "duration": 39,
+        "owner": "ELA",
+        "participants": []
+    },
+    {
+        "title": "learn python",
+        "location": "LA",
+        "start_time": "08-06-2022 15:49",
+        "duration": 558,
+        "owner": "ULA",
+        "participants": [
+            "Ala"
+        ]
+    },
+    {
+        "title": "drink beer",
+        "location": "LA",
+        "start_time": "04-06-2022 21:09",
+        "duration": 559,
+        "owner": "Ala",
+        "participants": [
+            "ULA"
+        ]
+    },
+    {
+        "title": "do something",
+        "location": "LA",
+        "start_time": "18-05-2022 07:20",
+        "duration": 579,
+        "owner": "OLA",
+        "participants": [
+            "Ala",
+            "OLA",
+            "Roman"
+        ]
+    },
+    {
+        "title": "drink beer",
+        "location": "Wwa",
+        "start_time": "17-05-2022 11:26",
+        "duration": 488,
+        "owner": "Ala",
+        "participants": [
+            "Ala",
+            "OLA",
+            "Ala",
+            "ULA",
+            "OLA"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "LA",
+        "start_time": "19-05-2022 18:34",
+        "duration": 464,
+        "owner": "OLA",
+        "participants": [
+            "ELA",
+            "Roman"
+        ]
+    },
+    {
+        "title": "drink beer",
+        "location": "LA",
+        "start_time": "21-05-2022 22:20",
+        "duration": 522,
+        "owner": "OLA",
+        "participants": [
+            "ULA",
+            "ELA",
+            "Ala",
+            "ULA",
+            "ULA"
+        ]
+    },
+    {
+        "title": "drink beer",
+        "location": "LA",
+        "start_time": "20-05-2022 16:23",
+        "duration": 424,
+        "owner": "OLA",
+        "participants": [
+            "Ala",
+            "Ala"
+        ]
+    },
+    {
+        "title": "drink beer",
+        "location": "Krk",
+        "start_time": "15-06-2022 07:29",
+        "duration": 97,
+        "owner": "ULA",
+        "participants": [
+            "ULA",
+            "OLA"
+        ]
+    },
+    {
+        "title": "do something",
+        "location": "Wwa",
+        "start_time": "19-05-2022 16:54",
+        "duration": 445,
+        "owner": "ELA",
+        "participants": [
+            "OLA",
+            "OLA",
+            "Ala",
+            "Roman"
+        ]
+    },
+    {
+        "title": "do something",
+        "location": "Krk",
+        "start_time": "13-06-2022 05:26",
+        "duration": 319,
+        "owner": "Roman",
+        "participants": []
+    },
+    {
+        "title": "do something",
+        "location": "Wwa",
+        "start_time": "16-05-2022 17:33",
+        "duration": 169,
+        "owner": "ELA",
+        "participants": [
+            "OLA",
+            "Roman"
+        ]
+    },
+    {
+        "title": "drink beer",
+        "location": "LA",
+        "start_time": "23-05-2022 06:17",
+        "duration": 68,
+        "owner": "ELA",
+        "participants": [
+            "Roman",
+            "Ala"
+        ]
+    },
+    {
+        "title": "drink beer",
+        "location": "LA",
+        "start_time": "14-06-2022 16:00",
+        "duration": 477,
+        "owner": "Ala",
+        "participants": [
+            "OLA",
+            "OLA",
+            "Roman",
+            "Ala"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "Wwa",
+        "start_time": "25-05-2022 11:49",
+        "duration": 223,
+        "owner": "ELA",
+        "participants": [
+            "Roman",
+            "ULA",
+            "Ala",
+            "ELA",
+            "ULA"
+        ]
+    },
+    {
+        "title": "do something",
+        "location": "Krk",
+        "start_time": "27-05-2022 10:33",
+        "duration": 268,
+        "owner": "ELA",
+        "participants": [
+            "Ala"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "Krk",
+        "start_time": "23-05-2022 11:19",
+        "duration": 570,
+        "owner": "Roman",
+        "participants": [
+            "OLA",
+            "Ala",
+            "Ala",
+            "ELA"
+        ]
+    },
+    {
+        "title": "do something",
+        "location": "LA",
+        "start_time": "29-05-2022 02:48",
+        "duration": 423,
+        "owner": "Ala",
+        "participants": [
+            "Roman",
+            "OLA",
+            "Roman",
+            "ULA"
+        ]
+    },
+    {
+        "title": "drink beer",
+        "location": "Krk",
+        "start_time": "21-05-2022 03:55",
+        "duration": 376,
+        "owner": "Roman",
+        "participants": [
+            "Roman",
+            "OLA"
+        ]
+    },
+    {
+        "title": "do something",
+        "location": "Wwa",
+        "start_time": "20-05-2022 02:23",
+        "duration": 78,
+        "owner": "Roman",
+        "participants": [
+            "Ala",
+            "Ala",
+            "OLA",
+            "OLA",
+            "Ala"
+        ]
+    },
+    {
+        "title": "do something",
+        "location": "LA",
+        "start_time": "02-06-2022 08:27",
+        "duration": 189,
+        "owner": "ULA",
+        "participants": []
+    },
+    {
+        "title": "learn python",
+        "location": "Wwa",
+        "start_time": "26-05-2022 18:22",
+        "duration": 503,
+        "owner": "ELA",
+        "participants": [
+            "Ala"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "Wwa",
+        "start_time": "15-06-2022 15:44",
+        "duration": 73,
+        "owner": "ELA",
+        "participants": [
+            "Roman",
+            "Ala",
+            "Ala"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "Wwa",
+        "start_time": "20-05-2022 17:52",
+        "duration": 423,
+        "owner": "ELA",
+        "participants": []
+    },
+    {
+        "title": "drink beer",
+        "location": "Wwa",
+        "start_time": "17-05-2022 01:28",
+        "duration": 119,
+        "owner": "ULA",
+        "participants": [
+            "Ala",
+            "ELA"
+        ]
+    },
+    {
+        "title": "do something",
+        "location": "Krk",
+        "start_time": "09-06-2022 04:24",
+        "duration": 46,
+        "owner": "Roman",
+        "participants": [
+            "Roman",
+            "ULA"
+        ]
+    },
+    {
+        "title": "drink beer",
+        "location": "Wwa",
+        "start_time": "07-06-2022 00:07",
+        "duration": 561,
+        "owner": "ULA",
+        "participants": [
+            "Roman",
+            "Ala",
+            "Roman"
+        ]
+    },
+    {
+        "title": "do something",
+        "location": "Wwa",
+        "start_time": "28-05-2022 14:32",
+        "duration": 480,
+        "owner": "ELA",
+        "participants": [
+            "ELA"
+        ]
+    },
+    {
+        "title": "drink beer",
+        "location": "LA",
+        "start_time": "31-05-2022 16:12",
+        "duration": 104,
+        "owner": "OLA",
+        "participants": [
+            "ULA",
+            "Ala",
+            "ELA"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "Wwa",
+        "start_time": "21-05-2022 23:09",
+        "duration": 472,
+        "owner": "Ala",
+        "participants": [
+            "ELA",
+            "Roman"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "Wwa",
+        "start_time": "19-05-2022 00:49",
+        "duration": 67,
+        "owner": "ULA",
+        "participants": [
+            "ELA",
+            "OLA",
+            "Roman",
+            "ELA",
+            "ULA"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "LA",
+        "start_time": "06-06-2022 17:59",
+        "duration": 44,
+        "owner": "Ala",
+        "participants": [
+            "Ala",
+            "ULA"
+        ]
+    },
+    {
+        "title": "drink beer",
+        "location": "Krk",
+        "start_time": "15-06-2022 12:06",
+        "duration": 223,
+        "owner": "OLA",
+        "participants": [
+            "Ala",
+            "ULA",
+            "ULA",
+            "Ala"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "LA",
+        "start_time": "13-06-2022 12:29",
+        "duration": 489,
+        "owner": "Roman",
+        "participants": [
+            "Roman",
+            "ULA"
+        ]
+    },
+    {
+        "title": "drink beer",
+        "location": "LA",
+        "start_time": "13-06-2022 12:18",
+        "duration": 333,
+        "owner": "ELA",
+        "participants": [
+            "Roman",
+            "ULA"
+        ]
+    },
+    {
+        "title": "do something",
+        "location": "Krk",
+        "start_time": "17-06-2022 09:44",
+        "duration": 567,
+        "owner": "Roman",
+        "participants": [
+            "OLA",
+            "Ala"
+        ]
+    },
+    {
+        "title": "do something",
+        "location": "Wwa",
+        "start_time": "14-06-2022 02:02",
+        "duration": 492,
+        "owner": "ELA",
+        "participants": [
+            "Ala",
+            "ELA"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "Wwa",
+        "start_time": "22-05-2022 15:16",
+        "duration": 536,
+        "owner": "ULA",
+        "participants": []
+    },
+    {
+        "title": "learn python",
+        "location": "Wwa",
+        "start_time": "04-06-2022 12:19",
+        "duration": 110,
+        "owner": "Roman",
+        "participants": [
+            "Ala",
+            "ULA",
+            "ELA",
+            "ELA"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "LA",
+        "start_time": "16-05-2022 07:11",
+        "duration": 594,
+        "owner": "OLA",
+        "participants": []
+    },
+    {
+        "title": "do something",
+        "location": "LA",
+        "start_time": "16-06-2022 02:44",
+        "duration": 379,
+        "owner": "Roman",
+        "participants": [
+            "OLA",
+            "Ala"
+        ]
+    },
+    {
+        "title": "do something",
+        "location": "Krk",
+        "start_time": "28-05-2022 00:00",
+        "duration": 257,
+        "owner": "Ala",
+        "participants": [
+            "Roman"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "Krk",
+        "start_time": "21-05-2022 19:47",
+        "duration": 68,
+        "owner": "OLA",
+        "participants": [
+            "ELA"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "LA",
+        "start_time": "16-06-2022 17:00",
+        "duration": 582,
+        "owner": "OLA",
+        "participants": []
+    },
+    {
+        "title": "do something",
+        "location": "LA",
+        "start_time": "15-06-2022 02:18",
+        "duration": 19,
+        "owner": "Roman",
+        "participants": []
+    },
+    {
+        "title": "drink beer",
+        "location": "LA",
+        "start_time": "01-06-2022 00:18",
+        "duration": 140,
+        "owner": "OLA",
+        "participants": [
+            "OLA",
+            "Roman",
+            "Ala",
+            "ULA"
+        ]
+    },
+    {
+        "title": "drink beer",
+        "location": "LA",
+        "start_time": "17-06-2022 01:49",
+        "duration": 477,
+        "owner": "Roman",
+        "participants": [
+            "ULA"
+        ]
+    },
+    {
+        "title": "drink beer",
+        "location": "LA",
+        "start_time": "17-06-2022 04:05",
+        "duration": 301,
+        "owner": "ULA",
+        "participants": [
+            "ULA",
+            "Roman",
+            "ELA"
+        ]
+    },
+    {
+        "title": "drink beer",
+        "location": "LA",
+        "start_time": "12-06-2022 13:08",
+        "duration": 465,
+        "owner": "ULA",
+        "participants": [
+            "Ala"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "Wwa",
+        "start_time": "17-05-2022 10:44",
+        "duration": 416,
+        "owner": "Roman",
+        "participants": [
+            "OLA",
+            "Roman",
+            "OLA",
+            "ULA"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "LA",
+        "start_time": "25-05-2022 06:05",
+        "duration": 50,
+        "owner": "ULA",
+        "participants": [
+            "Roman",
+            "ELA",
+            "OLA",
+            "OLA"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "LA",
+        "start_time": "05-06-2022 00:50",
+        "duration": 207,
+        "owner": "OLA",
+        "participants": []
+    },
+    {
+        "title": "learn python",
+        "location": "Krk",
+        "start_time": "16-05-2022 09:15",
+        "duration": 414,
+        "owner": "ELA",
+        "participants": [
+            "Ala",
+            "Roman",
+            "Roman",
+            "Ala"
+        ]
+    },
+    {
+        "title": "drink beer",
+        "location": "Wwa",
+        "start_time": "20-05-2022 18:42",
+        "duration": 164,
+        "owner": "ULA",
+        "participants": [
+            "ULA"
+        ]
+    },
+    {
+        "title": "drink beer",
+        "location": "LA",
+        "start_time": "06-06-2022 13:40",
+        "duration": 257,
+        "owner": "Roman",
+        "participants": [
+            "OLA",
+            "OLA",
+            "ELA",
+            "ELA"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "LA",
+        "start_time": "10-06-2022 09:37",
+        "duration": 469,
+        "owner": "ELA",
+        "participants": [
+            "Roman",
+            "Ala",
+            "OLA",
+            "Ala"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "Krk",
+        "start_time": "03-06-2022 07:48",
+        "duration": 389,
+        "owner": "Ala",
+        "participants": [
+            "Roman",
+            "Roman",
+            "ULA",
+            "Roman",
+            "ULA"
+        ]
+    },
+    {
+        "title": "do something",
+        "location": "LA",
+        "start_time": "02-06-2022 05:47",
+        "duration": 184,
+        "owner": "OLA",
+        "participants": [
+            "Roman",
+            "OLA",
+            "Roman",
+            "ULA"
+        ]
+    },
+    {
+        "title": "drink beer",
+        "location": "Krk",
+        "start_time": "17-06-2022 17:17",
+        "duration": 589,
+        "owner": "Ala",
+        "participants": [
+            "ULA",
+            "Ala"
+        ]
+    },
+    {
+        "title": "do something",
+        "location": "LA",
+        "start_time": "15-06-2022 21:11",
+        "duration": 123,
+        "owner": "OLA",
+        "participants": [
+            "ELA"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "LA",
+        "start_time": "06-06-2022 10:15",
+        "duration": 169,
+        "owner": "OLA",
+        "participants": [
+            "ULA"
+        ]
+    },
+    {
+        "title": "do something",
+        "location": "Krk",
+        "start_time": "17-06-2022 16:42",
+        "duration": 331,
+        "owner": "Ala",
+        "participants": [
+            "OLA",
+            "OLA",
+            "ULA",
+            "OLA",
+            "ELA"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "LA",
+        "start_time": "08-06-2022 12:17",
+        "duration": 484,
+        "owner": "OLA",
+        "participants": [
+            "Ala",
+            "Ala",
+            "OLA",
+            "Ala",
+            "ELA"
+        ]
+    },
+    {
+        "title": "do something",
+        "location": "Krk",
+        "start_time": "19-06-2022 05:58",
+        "duration": 261,
+        "owner": "Roman",
+        "participants": [
+            "Roman",
+            "OLA",
+            "OLA",
+            "Roman"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "Krk",
+        "start_time": "11-06-2022 14:49",
+        "duration": 63,
+        "owner": "ELA",
+        "participants": [
+            "ULA",
+            "OLA",
+            "OLA",
+            "Roman"
+        ]
+    },
+    {
+        "title": "do something",
+        "location": "Krk",
+        "start_time": "17-05-2022 21:14",
+        "duration": 570,
+        "owner": "Ala",
+        "participants": [
+            "OLA",
+            "ULA"
+        ]
+    },
+    {
+        "title": "drink beer",
+        "location": "LA",
+        "start_time": "10-06-2022 14:13",
+        "duration": 364,
+        "owner": "ULA",
+        "participants": [
+            "Roman",
+            "Roman",
+            "ULA",
+            "ULA"
+        ]
+    },
+    {
+        "title": "drink beer",
+        "location": "LA",
+        "start_time": "17-06-2022 16:37",
+        "duration": 86,
+        "owner": "ELA",
+        "participants": [
+            "ULA",
+            "ULA",
+            "OLA",
+            "Roman",
+            "OLA"
+        ]
+    },
+    {
+        "title": "drink beer",
+        "location": "Krk",
+        "start_time": "12-06-2022 04:49",
+        "duration": 289,
+        "owner": "ELA",
+        "participants": [
+            "ELA",
+            "OLA",
+            "ELA"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "LA",
+        "start_time": "24-05-2022 20:11",
+        "duration": 46,
+        "owner": "Roman",
+        "participants": [
+            "ELA",
+            "Roman",
+            "Ala",
+            "OLA",
+            "Roman"
+        ]
+    },
+    {
+        "title": "drink beer",
+        "location": "Krk",
+        "start_time": "17-05-2022 00:12",
+        "duration": 529,
+        "owner": "ELA",
+        "participants": [
+            "OLA",
+            "ELA"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "LA",
+        "start_time": "29-05-2022 02:59",
+        "duration": 396,
+        "owner": "Ala",
+        "participants": [
+            "ULA",
+            "OLA",
+            "ULA"
+        ]
+    },
+    {
+        "title": "drink beer",
+        "location": "LA",
+        "start_time": "24-05-2022 08:28",
+        "duration": 127,
+        "owner": "Roman",
+        "participants": [
+            "Roman"
+        ]
+    },
+    {
+        "title": "drink beer",
+        "location": "LA",
+        "start_time": "13-06-2022 09:11",
+        "duration": 364,
+        "owner": "ULA",
+        "participants": [
+            "OLA",
+            "Ala"
+        ]
+    },
+    {
+        "title": "drink beer",
+        "location": "Krk",
+        "start_time": "14-06-2022 20:05",
+        "duration": 574,
+        "owner": "ULA",
+        "participants": [
+            "Ala",
+            "ULA",
+            "ELA",
+            "ELA"
+        ]
+    },
+    {
+        "title": "do something",
+        "location": "Wwa",
+        "start_time": "16-06-2022 16:09",
+        "duration": 71,
+        "owner": "ELA",
+        "participants": [
+            "OLA",
+            "OLA",
+            "Ala"
+        ]
+    },
+    {
+        "title": "drink beer",
+        "location": "Krk",
+        "start_time": "16-06-2022 18:26",
+        "duration": 579,
+        "owner": "ELA",
+        "participants": [
+            "Roman",
+            "ULA",
+            "OLA",
+            "Ala",
+            "ULA"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "Wwa",
+        "start_time": "16-05-2022 14:30",
+        "duration": 422,
+        "owner": "ULA",
+        "participants": []
+    },
+    {
+        "title": "do something",
+        "location": "Krk",
+        "start_time": "11-06-2022 08:43",
+        "duration": 209,
+        "owner": "ELA",
+        "participants": [
+            "Roman",
+            "OLA",
+            "ELA",
+            "ULA",
+            "Roman"
+        ]
+    },
+    {
+        "title": "do something",
+        "location": "Krk",
+        "start_time": "14-06-2022 08:02",
+        "duration": 519,
+        "owner": "Roman",
+        "participants": [
+            "ULA",
+            "Roman",
+            "OLA",
+            "ULA",
+            "OLA"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "Wwa",
+        "start_time": "11-06-2022 15:13",
+        "duration": 317,
+        "owner": "Ala",
+        "participants": [
+            "ULA",
+            "Roman",
+            "ULA",
+            "ULA"
+        ]
+    },
+    {
+        "title": "drink beer",
+        "location": "Krk",
+        "start_time": "05-06-2022 12:39",
+        "duration": 30,
+        "owner": "ELA",
+        "participants": [
+            "Roman",
+            "OLA",
+            "Ala",
+            "Roman"
+        ]
+    },
+    {
+        "title": "drink beer",
+        "location": "Krk",
+        "start_time": "23-05-2022 04:00",
+        "duration": 92,
+        "owner": "ULA",
+        "participants": [
+            "Ala",
+            "ELA",
+            "OLA",
+            "ELA"
+        ]
+    },
+    {
+        "title": "drink beer",
+        "location": "LA",
+        "start_time": "03-06-2022 13:10",
+        "duration": 326,
+        "owner": "Ala",
+        "participants": [
+            "Roman"
+        ]
+    },
+    {
+        "title": "do something",
+        "location": "Krk",
+        "start_time": "31-05-2022 19:35",
+        "duration": 467,
+        "owner": "ULA",
+        "participants": [
+            "OLA",
+            "Roman",
+            "Ala",
+            "ELA",
+            "ULA"
+        ]
+    },
+    {
+        "title": "do something",
+        "location": "LA",
+        "start_time": "28-05-2022 02:17",
+        "duration": 482,
+        "owner": "Roman",
+        "participants": []
+    },
+    {
+        "title": "do something",
+        "location": "Wwa",
+        "start_time": "02-06-2022 22:19",
+        "duration": 505,
+        "owner": "OLA",
+        "participants": [
+            "ULA",
+            "Ala",
+            "Ala"
+        ]
+    },
+    {
+        "title": "drink beer",
+        "location": "LA",
+        "start_time": "26-05-2022 19:11",
+        "duration": 589,
+        "owner": "ULA",
+        "participants": []
+    },
+    {
+        "title": "do something",
+        "location": "Wwa",
+        "start_time": "26-05-2022 02:37",
+        "duration": 55,
+        "owner": "OLA",
+        "participants": [
+            "ULA",
+            "ULA",
+            "ELA",
+            "ELA",
+            "Ala"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "Krk",
+        "start_time": "17-05-2022 11:38",
+        "duration": 456,
+        "owner": "OLA",
+        "participants": [
+            "Roman",
+            "Roman",
+            "OLA"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "LA",
+        "start_time": "14-06-2022 01:14",
+        "duration": 378,
+        "owner": "ELA",
+        "participants": [
+            "Ala",
+            "ELA"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "LA",
+        "start_time": "11-06-2022 07:44",
+        "duration": 554,
+        "owner": "OLA",
+        "participants": [
+            "OLA",
+            "Ala"
+        ]
+    },
+    {
+        "title": "drink beer",
+        "location": "Krk",
+        "start_time": "13-06-2022 08:54",
+        "duration": 564,
+        "owner": "ELA",
+        "participants": [
+            "Ala",
+            "ELA",
+            "ULA"
+        ]
+    },
+    {
+        "title": "drink beer",
+        "location": "Krk",
+        "start_time": "07-06-2022 08:08",
+        "duration": 121,
+        "owner": "Ala",
+        "participants": [
+            "Ala",
+            "Roman",
+            "Roman"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "Wwa",
+        "start_time": "05-06-2022 14:34",
+        "duration": 594,
+        "owner": "Roman",
+        "participants": [
+            "ELA",
+            "Ala",
+            "ULA"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "Krk",
+        "start_time": "02-06-2022 17:52",
+        "duration": 420,
+        "owner": "ULA",
+        "participants": [
+            "Ala",
+            "ULA",
+            "Ala",
+            "ULA"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "Krk",
+        "start_time": "15-06-2022 20:28",
+        "duration": 435,
+        "owner": "Ala",
+        "participants": [
+            "ELA"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "Krk",
+        "start_time": "26-05-2022 02:51",
+        "duration": 152,
+        "owner": "Roman",
+        "participants": [
+            "ULA",
+            "Ala",
+            "Roman",
+            "Ala",
+            "OLA"
+        ]
+    },
+    {
+        "title": "drink beer",
+        "location": "Krk",
+        "start_time": "17-05-2022 11:37",
+        "duration": 489,
+        "owner": "Ala",
+        "participants": []
+    },
+    {
+        "title": "learn python",
+        "location": "LA",
+        "start_time": "15-06-2022 08:40",
+        "duration": 347,
+        "owner": "OLA",
+        "participants": []
+    },
+    {
+        "title": "drink beer",
+        "location": "LA",
+        "start_time": "01-06-2022 07:21",
+        "duration": 269,
+        "owner": "ULA",
+        "participants": [
+            "OLA",
+            "Roman"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "LA",
+        "start_time": "25-05-2022 03:20",
+        "duration": 423,
+        "owner": "Ala",
+        "participants": [
+            "ELA",
+            "ULA",
+            "Roman",
+            "Ala"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "Krk",
+        "start_time": "12-06-2022 15:36",
+        "duration": 426,
+        "owner": "Roman",
+        "participants": [
+            "ULA"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "Wwa",
+        "start_time": "29-05-2022 19:57",
+        "duration": 525,
+        "owner": "Ala",
+        "participants": [
+            "Ala",
+            "OLA"
+        ]
+    },
+    {
+        "title": "drink beer",
+        "location": "Krk",
+        "start_time": "07-06-2022 09:11",
+        "duration": 280,
+        "owner": "Ala",
+        "participants": []
+    },
+    {
+        "title": "drink beer",
+        "location": "Wwa",
+        "start_time": "27-05-2022 07:05",
+        "duration": 189,
+        "owner": "Roman",
+        "participants": [
+            "ULA",
+            "ULA",
+            "Ala",
+            "Roman",
+            "OLA"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "LA",
+        "start_time": "22-05-2022 02:34",
+        "duration": 410,
+        "owner": "Roman",
+        "participants": [
+            "ULA",
+            "Roman"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "LA",
+        "start_time": "23-05-2022 14:55",
+        "duration": 566,
+        "owner": "Ala",
+        "participants": [
+            "OLA",
+            "OLA",
+            "ELA",
+            "Roman"
+        ]
+    },
+    {
+        "title": "do something",
+        "location": "Wwa",
+        "start_time": "18-06-2022 05:54",
+        "duration": 559,
+        "owner": "ULA",
+        "participants": [
+            "OLA",
+            "OLA",
+            "ULA",
+            "Roman"
+        ]
+    },
+    {
+        "title": "do something",
+        "location": "Wwa",
+        "start_time": "02-06-2022 08:36",
+        "duration": 360,
+        "owner": "OLA",
+        "participants": []
+    },
+    {
+        "title": "drink beer",
+        "location": "Krk",
+        "start_time": "01-06-2022 06:38",
+        "duration": 117,
+        "owner": "Ala",
+        "participants": [
+            "ELA"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "LA",
+        "start_time": "19-06-2022 04:28",
+        "duration": 247,
+        "owner": "ELA",
+        "participants": [
+            "Roman",
+            "Ala"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "Wwa",
+        "start_time": "04-06-2022 14:03",
+        "duration": 33,
+        "owner": "Roman",
+        "participants": [
+            "Ala",
+            "ELA",
+            "ELA",
+            "ELA"
+        ]
+    },
+    {
+        "title": "drink beer",
+        "location": "LA",
+        "start_time": "28-05-2022 08:18",
+        "duration": 401,
+        "owner": "OLA",
+        "participants": [
+            "OLA",
+            "Roman",
+            "Roman",
+            "Roman",
+            "ULA"
+        ]
+    },
+    {
+        "title": "drink beer",
+        "location": "LA",
+        "start_time": "16-05-2022 13:28",
+        "duration": 246,
+        "owner": "ELA",
+        "participants": [
+            "Ala",
+            "Roman",
+            "ULA"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "Krk",
+        "start_time": "19-06-2022 01:40",
+        "duration": 422,
+        "owner": "ELA",
+        "participants": [
+            "Roman"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "LA",
+        "start_time": "29-05-2022 14:19",
+        "duration": 596,
+        "owner": "ELA",
+        "participants": [
+            "ULA",
+            "Roman"
+        ]
+    },
+    {
+        "title": "do something",
+        "location": "Wwa",
+        "start_time": "27-05-2022 08:19",
+        "duration": 542,
+        "owner": "Ala",
+        "participants": [
+            "Ala",
+            "ELA",
+            "ULA",
+            "ULA"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "Krk",
+        "start_time": "14-06-2022 11:03",
+        "duration": 120,
+        "owner": "ELA",
+        "participants": [
+            "ULA"
+        ]
+    },
+    {
+        "title": "do something",
+        "location": "Krk",
+        "start_time": "07-06-2022 13:54",
+        "duration": 428,
+        "owner": "ULA",
+        "participants": [
+            "Roman"
+        ]
+    },
+    {
+        "title": "drink beer",
+        "location": "Krk",
+        "start_time": "22-05-2022 01:11",
+        "duration": 474,
+        "owner": "ELA",
+        "participants": [
+            "Ala",
+            "ELA",
+            "ELA"
+        ]
+    },
+    {
+        "title": "do something",
+        "location": "Krk",
+        "start_time": "27-05-2022 23:10",
+        "duration": 574,
+        "owner": "OLA",
+        "participants": [
+            "ELA",
+            "ELA",
+            "Ala",
+            "Roman"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "LA",
+        "start_time": "19-06-2022 07:34",
+        "duration": 332,
+        "owner": "ULA",
+        "participants": [
+            "Roman",
+            "Ala",
+            "Ala",
+            "OLA",
+            "OLA"
+        ]
+    },
+    {
+        "title": "do something",
+        "location": "Wwa",
+        "start_time": "15-06-2022 22:28",
+        "duration": 310,
+        "owner": "OLA",
+        "participants": [
+            "Roman"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "Krk",
+        "start_time": "02-06-2022 02:46",
+        "duration": 227,
+        "owner": "ULA",
+        "participants": [
+            "OLA",
+            "ELA",
+            "ELA",
+            "ULA"
+        ]
+    },
+    {
+        "title": "do something",
+        "location": "LA",
+        "start_time": "26-05-2022 00:02",
+        "duration": 425,
+        "owner": "OLA",
+        "participants": [
+            "Roman",
+            "Ala",
+            "Roman",
+            "ULA"
+        ]
+    },
+    {
+        "title": "drink beer",
+        "location": "LA",
+        "start_time": "19-05-2022 09:10",
+        "duration": 272,
+        "owner": "OLA",
+        "participants": [
+            "ULA",
+            "Roman"
+        ]
+    },
+    {
+        "title": "drink beer",
+        "location": "LA",
+        "start_time": "24-05-2022 10:49",
+        "duration": 335,
+        "owner": "Ala",
+        "participants": [
+            "ULA",
+            "ELA",
+            "Roman",
+            "Ala"
+        ]
+    },
+    {
+        "title": "do something",
+        "location": "Krk",
+        "start_time": "18-06-2022 17:27",
+        "duration": 590,
+        "owner": "ELA",
+        "participants": [
+            "Ala",
+            "Ala"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "LA",
+        "start_time": "10-06-2022 16:11",
+        "duration": 263,
+        "owner": "OLA",
+        "participants": [
+            "Ala",
+            "ULA"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "Wwa",
+        "start_time": "30-05-2022 06:07",
+        "duration": 104,
+        "owner": "Ala",
+        "participants": []
+    },
+    {
+        "title": "do something",
+        "location": "Wwa",
+        "start_time": "22-05-2022 17:21",
+        "duration": 147,
+        "owner": "OLA",
+        "participants": [
+            "Roman",
+            "Roman"
+        ]
+    },
+    {
+        "title": "drink beer",
+        "location": "LA",
+        "start_time": "28-05-2022 01:06",
+        "duration": 321,
+        "owner": "OLA",
+        "participants": [
+            "OLA",
+            "ELA"
+        ]
+    },
+    {
+        "title": "do something",
+        "location": "Wwa",
+        "start_time": "09-06-2022 15:13",
+        "duration": 98,
+        "owner": "OLA",
+        "participants": [
+            "ULA",
+            "Ala",
+            "ELA",
+            "OLA",
+            "ELA"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "Krk",
+        "start_time": "22-05-2022 16:35",
+        "duration": 574,
+        "owner": "ELA",
+        "participants": [
+            "ELA"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "Krk",
+        "start_time": "16-05-2022 14:21",
+        "duration": 36,
+        "owner": "ELA",
+        "participants": [
+            "Roman",
+            "Roman",
+            "ULA",
+            "Roman",
+            "Ala"
+        ]
+    },
+    {
+        "title": "do something",
+        "location": "Krk",
+        "start_time": "18-06-2022 02:11",
+        "duration": 466,
+        "owner": "Roman",
+        "participants": [
+            "Ala"
+        ]
+    },
+    {
+        "title": "drink beer",
+        "location": "LA",
+        "start_time": "05-06-2022 01:40",
+        "duration": 290,
+        "owner": "OLA",
+        "participants": [
+            "ULA",
+            "Ala",
+            "ULA",
+            "Ala",
+            "Roman"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "Wwa",
+        "start_time": "20-05-2022 08:26",
+        "duration": 308,
+        "owner": "ULA",
+        "participants": [
+            "ELA",
+            "ULA",
+            "Ala",
+            "OLA",
+            "ELA"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "Wwa",
+        "start_time": "14-06-2022 03:51",
+        "duration": 392,
+        "owner": "ELA",
+        "participants": [
+            "Roman",
+            "Roman"
+        ]
+    },
+    {
+        "title": "do something",
+        "location": "Krk",
+        "start_time": "28-05-2022 22:28",
+        "duration": 167,
+        "owner": "OLA",
+        "participants": [
+            "ULA"
+        ]
+    },
+    {
+        "title": "do something",
+        "location": "Krk",
+        "start_time": "21-05-2022 05:51",
+        "duration": 516,
+        "owner": "Roman",
+        "participants": []
+    },
+    {
+        "title": "drink beer",
+        "location": "Wwa",
+        "start_time": "26-05-2022 18:01",
+        "duration": 389,
+        "owner": "OLA",
+        "participants": [
+            "OLA",
+            "OLA"
+        ]
+    },
+    {
+        "title": "drink beer",
+        "location": "Krk",
+        "start_time": "29-05-2022 17:48",
+        "duration": 375,
+        "owner": "ULA",
+        "participants": [
+            "Ala",
+            "Roman",
+            "ELA",
+            "ULA"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "Wwa",
+        "start_time": "14-06-2022 18:59",
+        "duration": 178,
+        "owner": "ULA",
+        "participants": [
+            "Roman",
+            "Ala"
+        ]
+    },
+    {
+        "title": "do something",
+        "location": "Wwa",
+        "start_time": "01-06-2022 11:53",
+        "duration": 365,
+        "owner": "OLA",
+        "participants": [
+            "ULA",
+            "OLA",
+            "ULA"
+        ]
+    },
+    {
+        "title": "do something",
+        "location": "Krk",
+        "start_time": "10-06-2022 12:12",
+        "duration": 54,
+        "owner": "ELA",
+        "participants": []
+    },
+    {
+        "title": "learn python",
+        "location": "LA",
+        "start_time": "29-05-2022 18:32",
+        "duration": 382,
+        "owner": "Ala",
+        "participants": [
+            "ULA",
+            "ULA"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "Krk",
+        "start_time": "31-05-2022 12:16",
+        "duration": 281,
+        "owner": "ELA",
+        "participants": [
+            "Ala",
+            "ULA",
+            "ULA"
+        ]
+    },
+    {
+        "title": "drink beer",
+        "location": "Krk",
+        "start_time": "07-06-2022 04:53",
+        "duration": 582,
+        "owner": "ULA",
+        "participants": [
+            "ULA",
+            "ULA",
+            "OLA",
+            "Ala",
+            "Ala"
+        ]
+    },
+    {
+        "title": "drink beer",
+        "location": "Wwa",
+        "start_time": "06-06-2022 13:50",
+        "duration": 396,
+        "owner": "Roman",
+        "participants": [
+            "Ala"
+        ]
+    },
+    {
+        "title": "do something",
+        "location": "LA",
+        "start_time": "10-06-2022 07:59",
+        "duration": 265,
+        "owner": "ELA",
+        "participants": []
+    },
+    {
+        "title": "do something",
+        "location": "Krk",
+        "start_time": "21-05-2022 04:30",
+        "duration": 597,
+        "owner": "ELA",
+        "participants": [
+            "OLA",
+            "Ala",
+            "ELA",
+            "Ala"
+        ]
+    },
+    {
+        "title": "do something",
+        "location": "Krk",
+        "start_time": "08-06-2022 00:34",
+        "duration": 340,
+        "owner": "ELA",
+        "participants": [
+            "Roman",
+            "ULA",
+            "ELA",
+            "OLA",
+            "OLA"
+        ]
+    },
+    {
+        "title": "do something",
+        "location": "Krk",
+        "start_time": "06-06-2022 12:54",
+        "duration": 571,
+        "owner": "Ala",
+        "participants": [
+            "ULA",
+            "ULA"
+        ]
+    },
+    {
+        "title": "do something",
+        "location": "Krk",
+        "start_time": "03-06-2022 22:51",
+        "duration": 69,
+        "owner": "Roman",
+        "participants": [
+            "Roman",
+            "ULA"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "LA",
+        "start_time": "11-06-2022 20:39",
+        "duration": 569,
+        "owner": "Roman",
+        "participants": [
+            "Ala",
+            "OLA",
+            "OLA"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "Krk",
+        "start_time": "20-05-2022 12:51",
+        "duration": 71,
+        "owner": "OLA",
+        "participants": [
+            "Roman",
+            "Ala",
+            "ULA",
+            "Ala",
+            "OLA"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "Krk",
+        "start_time": "15-06-2022 18:44",
+        "duration": 106,
+        "owner": "OLA",
+        "participants": [
+            "ULA"
+        ]
+    },
+    {
+        "title": "do something",
+        "location": "LA",
+        "start_time": "23-05-2022 18:09",
+        "duration": 63,
+        "owner": "Ala",
+        "participants": [
+            "ELA",
+            "OLA"
+        ]
+    },
+    {
+        "title": "drink beer",
+        "location": "LA",
+        "start_time": "14-06-2022 17:36",
+        "duration": 321,
+        "owner": "ULA",
+        "participants": [
+            "ULA",
+            "Roman",
+            "Roman"
+        ]
+    },
+    {
+        "title": "do something",
+        "location": "Krk",
+        "start_time": "18-05-2022 10:20",
+        "duration": 580,
+        "owner": "Ala",
+        "participants": []
+    },
+    {
+        "title": "learn python",
+        "location": "LA",
+        "start_time": "11-06-2022 00:40",
+        "duration": 89,
+        "owner": "Ala",
+        "participants": [
+            "OLA",
+            "ULA",
+            "Ala",
+            "OLA"
+        ]
+    },
+    {
+        "title": "drink beer",
+        "location": "Wwa",
+        "start_time": "18-06-2022 04:00",
+        "duration": 254,
+        "owner": "Roman",
+        "participants": [
+            "OLA",
+            "ELA"
+        ]
+    },
+    {
+        "title": "do something",
+        "location": "Wwa",
+        "start_time": "07-06-2022 01:17",
+        "duration": 483,
+        "owner": "Roman",
+        "participants": []
+    },
+    {
+        "title": "drink beer",
+        "location": "Wwa",
+        "start_time": "16-05-2022 05:18",
+        "duration": 64,
+        "owner": "ULA",
+        "participants": [
+            "OLA",
+            "ELA",
+            "OLA"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "Wwa",
+        "start_time": "31-05-2022 09:11",
+        "duration": 57,
+        "owner": "ULA",
+        "participants": [
+            "Roman",
+            "ELA",
+            "OLA",
+            "Ala",
+            "ELA"
+        ]
+    },
+    {
+        "title": "drink beer",
+        "location": "LA",
+        "start_time": "07-06-2022 17:35",
+        "duration": 36,
+        "owner": "Ala",
+        "participants": [
+            "Ala",
+            "ELA",
+            "OLA",
+            "Ala",
+            "Ala"
+        ]
+    },
+    {
+        "title": "drink beer",
+        "location": "LA",
+        "start_time": "01-06-2022 00:33",
+        "duration": 75,
+        "owner": "Ala",
+        "participants": []
+    },
+    {
+        "title": "learn python",
+        "location": "LA",
+        "start_time": "12-06-2022 12:17",
+        "duration": 441,
+        "owner": "ELA",
+        "participants": []
+    },
+    {
+        "title": "drink beer",
+        "location": "Krk",
+        "start_time": "13-06-2022 11:11",
+        "duration": 161,
+        "owner": "ELA",
+        "participants": [
+            "Ala",
+            "Ala",
+            "Roman"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "LA",
+        "start_time": "16-06-2022 19:52",
+        "duration": 166,
+        "owner": "Ala",
+        "participants": [
+            "OLA",
+            "ULA"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "Wwa",
+        "start_time": "11-06-2022 01:51",
+        "duration": 228,
+        "owner": "Ala",
+        "participants": [
+            "ELA"
+        ]
+    },
+    {
+        "title": "drink beer",
+        "location": "Wwa",
+        "start_time": "19-06-2022 09:30",
+        "duration": 401,
+        "owner": "Roman",
+        "participants": [
+            "ELA",
+            "Roman",
+            "OLA",
+            "ULA"
+        ]
+    },
+    {
+        "title": "do something",
+        "location": "LA",
+        "start_time": "25-05-2022 21:30",
+        "duration": 293,
+        "owner": "ELA",
+        "participants": []
+    },
+    {
+        "title": "do something",
+        "location": "LA",
+        "start_time": "07-06-2022 15:51",
+        "duration": 568,
+        "owner": "OLA",
+        "participants": []
+    },
+    {
+        "title": "do something",
+        "location": "Wwa",
+        "start_time": "05-06-2022 06:44",
+        "duration": 450,
+        "owner": "ULA",
+        "participants": []
+    },
+    {
+        "title": "drink beer",
+        "location": "Wwa",
+        "start_time": "18-05-2022 01:16",
+        "duration": 536,
+        "owner": "ELA",
+        "participants": [
+            "Roman",
+            "ELA"
+        ]
+    },
+    {
+        "title": "drink beer",
+        "location": "LA",
+        "start_time": "24-05-2022 06:52",
+        "duration": 188,
+        "owner": "Ala",
+        "participants": []
+    },
+    {
+        "title": "drink beer",
+        "location": "Krk",
+        "start_time": "10-06-2022 15:27",
+        "duration": 539,
+        "owner": "OLA",
+        "participants": [
+            "OLA",
+            "Ala",
+            "OLA",
+            "Ala"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "Krk",
+        "start_time": "07-06-2022 07:45",
+        "duration": 265,
+        "owner": "Roman",
+        "participants": [
+            "ELA",
+            "Roman",
+            "ELA",
+            "ELA"
+        ]
+    },
+    {
+        "title": "drink beer",
+        "location": "Krk",
+        "start_time": "08-06-2022 07:39",
+        "duration": 219,
+        "owner": "Ala",
+        "participants": []
+    },
+    {
+        "title": "drink beer",
+        "location": "Krk",
+        "start_time": "17-05-2022 05:14",
+        "duration": 65,
+        "owner": "OLA",
+        "participants": [
+            "ELA",
+            "Roman",
+            "ULA"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "LA",
+        "start_time": "20-05-2022 14:01",
+        "duration": 49,
+        "owner": "OLA",
+        "participants": [
+            "ELA",
+            "Ala",
+            "Roman"
+        ]
+    },
+    {
+        "title": "drink beer",
+        "location": "Wwa",
+        "start_time": "16-05-2022 19:23",
+        "duration": 371,
+        "owner": "ULA",
+        "participants": [
+            "ELA",
+            "ELA",
+            "ULA",
+            "ULA"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "LA",
+        "start_time": "07-06-2022 04:01",
+        "duration": 330,
+        "owner": "Roman",
+        "participants": [
+            "Roman",
+            "ULA",
+            "Ala",
+            "Ala"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "Wwa",
+        "start_time": "11-06-2022 18:17",
+        "duration": 114,
+        "owner": "Ala",
+        "participants": [
+            "ELA",
+            "Ala",
+            "OLA"
+        ]
+    },
+    {
+        "title": "do something",
+        "location": "LA",
+        "start_time": "14-06-2022 05:19",
+        "duration": 276,
+        "owner": "Ala",
+        "participants": [
+            "Roman",
+            "Roman",
+            "OLA"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "Krk",
+        "start_time": "16-05-2022 23:03",
+        "duration": 434,
+        "owner": "ULA",
+        "participants": [
+            "ELA"
+        ]
+    },
+    {
+        "title": "drink beer",
+        "location": "Wwa",
+        "start_time": "03-06-2022 06:27",
+        "duration": 587,
+        "owner": "Ala",
+        "participants": []
+    },
+    {
+        "title": "learn python",
+        "location": "LA",
+        "start_time": "17-06-2022 00:21",
+        "duration": 453,
+        "owner": "Roman",
+        "participants": []
+    },
+    {
+        "title": "do something",
+        "location": "Wwa",
+        "start_time": "26-05-2022 12:24",
+        "duration": 77,
+        "owner": "Ala",
+        "participants": [
+            "Ala"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "Wwa",
+        "start_time": "05-06-2022 03:11",
+        "duration": 141,
+        "owner": "OLA",
+        "participants": [
+            "ULA",
+            "Roman",
+            "Ala",
+            "OLA"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "Krk",
+        "start_time": "02-06-2022 14:03",
+        "duration": 129,
+        "owner": "Roman",
+        "participants": [
+            "ULA"
+        ]
+    },
+    {
+        "title": "do something",
+        "location": "Krk",
+        "start_time": "04-06-2022 00:25",
+        "duration": 72,
+        "owner": "ULA",
+        "participants": [
+            "OLA",
+            "ELA",
+            "ELA"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "Krk",
+        "start_time": "18-05-2022 07:51",
+        "duration": 139,
+        "owner": "ELA",
+        "participants": []
+    },
+    {
+        "title": "do something",
+        "location": "Wwa",
+        "start_time": "28-05-2022 01:06",
+        "duration": 383,
+        "owner": "ELA",
+        "participants": []
+    },
+    {
+        "title": "drink beer",
+        "location": "Wwa",
+        "start_time": "21-05-2022 07:05",
+        "duration": 353,
+        "owner": "ULA",
+        "participants": [
+            "Roman",
+            "OLA",
+            "ELA",
+            "ELA"
+        ]
+    },
+    {
+        "title": "drink beer",
+        "location": "Krk",
+        "start_time": "24-05-2022 02:59",
+        "duration": 70,
+        "owner": "ELA",
+        "participants": [
+            "ULA",
+            "ULA"
+        ]
+    },
+    {
+        "title": "do something",
+        "location": "Krk",
+        "start_time": "24-05-2022 01:56",
+        "duration": 279,
+        "owner": "OLA",
+        "participants": [
+            "ELA"
+        ]
+    },
+    {
+        "title": "do something",
+        "location": "LA",
+        "start_time": "28-05-2022 06:43",
+        "duration": 393,
+        "owner": "OLA",
+        "participants": []
+    },
+    {
+        "title": "drink beer",
+        "location": "LA",
+        "start_time": "01-06-2022 19:32",
+        "duration": 50,
+        "owner": "Ala",
+        "participants": [
+            "ELA"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "LA",
+        "start_time": "31-05-2022 21:25",
+        "duration": 442,
+        "owner": "OLA",
+        "participants": [
+            "ULA",
+            "OLA",
+            "Roman"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "LA",
+        "start_time": "23-05-2022 01:07",
+        "duration": 393,
+        "owner": "Ala",
+        "participants": [
+            "OLA"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "Wwa",
+        "start_time": "10-06-2022 22:48",
+        "duration": 66,
+        "owner": "Ala",
+        "participants": [
+            "Roman",
+            "Roman"
+        ]
+    },
+    {
+        "title": "drink beer",
+        "location": "Krk",
+        "start_time": "05-06-2022 13:15",
+        "duration": 399,
+        "owner": "Ala",
+        "participants": []
+    },
+    {
+        "title": "do something",
+        "location": "Krk",
+        "start_time": "08-06-2022 22:10",
+        "duration": 444,
+        "owner": "ELA",
+        "participants": [
+            "Ala",
+            "Roman",
+            "Roman"
+        ]
+    },
+    {
+        "title": "drink beer",
+        "location": "LA",
+        "start_time": "20-05-2022 11:18",
+        "duration": 100,
+        "owner": "Roman",
+        "participants": [
+            "Ala",
+            "OLA",
+            "ELA"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "LA",
+        "start_time": "23-05-2022 14:34",
+        "duration": 274,
+        "owner": "ULA",
+        "participants": [
+            "Roman",
+            "ELA",
+            "ULA",
+            "ELA"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "LA",
+        "start_time": "26-05-2022 06:54",
+        "duration": 274,
+        "owner": "Ala",
+        "participants": [
+            "OLA",
+            "Ala",
+            "OLA",
+            "Ala",
+            "Ala"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "Wwa",
+        "start_time": "08-06-2022 20:04",
+        "duration": 450,
+        "owner": "Roman",
+        "participants": []
+    },
+    {
+        "title": "drink beer",
+        "location": "Wwa",
+        "start_time": "18-05-2022 17:37",
+        "duration": 231,
+        "owner": "ELA",
+        "participants": [
+            "ULA",
+            "ULA"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "LA",
+        "start_time": "25-05-2022 12:40",
+        "duration": 192,
+        "owner": "Roman",
+        "participants": [
+            "Ala",
+            "ELA",
+            "ELA",
+            "ULA"
+        ]
+    },
+    {
+        "title": "drink beer",
+        "location": "LA",
+        "start_time": "15-06-2022 11:08",
+        "duration": 416,
+        "owner": "Ala",
+        "participants": [
+            "Ala",
+            "Ala",
+            "ULA",
+            "ULA",
+            "OLA"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "Wwa",
+        "start_time": "30-05-2022 18:13",
+        "duration": 194,
+        "owner": "Ala",
+        "participants": []
+    },
+    {
+        "title": "do something",
+        "location": "Krk",
+        "start_time": "31-05-2022 10:41",
+        "duration": 242,
+        "owner": "ELA",
+        "participants": [
+            "OLA",
+            "ULA",
+            "ELA",
+            "OLA",
+            "OLA"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "Krk",
+        "start_time": "11-06-2022 14:06",
+        "duration": 527,
+        "owner": "ULA",
+        "participants": []
+    },
+    {
+        "title": "learn python",
+        "location": "Krk",
+        "start_time": "15-06-2022 15:12",
+        "duration": 262,
+        "owner": "ELA",
+        "participants": [
+            "OLA",
+            "ULA",
+            "Ala"
+        ]
+    },
+    {
+        "title": "drink beer",
+        "location": "LA",
+        "start_time": "05-06-2022 15:18",
+        "duration": 395,
+        "owner": "Roman",
+        "participants": [
+            "ELA",
+            "Ala",
+            "ELA",
+            "Roman"
+        ]
+    },
+    {
+        "title": "do something",
+        "location": "LA",
+        "start_time": "28-05-2022 19:27",
+        "duration": 154,
+        "owner": "OLA",
+        "participants": [
+            "Ala",
+            "ULA",
+            "Roman",
+            "ULA",
+            "Ala"
+        ]
+    },
+    {
+        "title": "drink beer",
+        "location": "Krk",
+        "start_time": "30-05-2022 03:10",
+        "duration": 576,
+        "owner": "OLA",
+        "participants": []
+    },
+    {
+        "title": "do something",
+        "location": "Wwa",
+        "start_time": "17-06-2022 12:45",
+        "duration": 43,
+        "owner": "OLA",
+        "participants": []
+    },
+    {
+        "title": "drink beer",
+        "location": "Krk",
+        "start_time": "11-06-2022 19:07",
+        "duration": 165,
+        "owner": "ELA",
+        "participants": [
+            "Ala",
+            "ULA",
+            "ULA",
+            "OLA",
+            "OLA"
+        ]
+    },
+    {
+        "title": "do something",
+        "location": "Krk",
+        "start_time": "16-05-2022 04:09",
+        "duration": 169,
+        "owner": "Ala",
+        "participants": [
+            "ELA",
+            "ULA",
+            "Roman",
+            "OLA"
+        ]
+    },
+    {
+        "title": "do something",
+        "location": "Krk",
+        "start_time": "01-06-2022 17:35",
+        "duration": 60,
+        "owner": "ULA",
+        "participants": [
+            "Roman",
+            "ULA",
+            "Ala"
+        ]
+    },
+    {
+        "title": "drink beer",
+        "location": "Krk",
+        "start_time": "18-05-2022 22:44",
+        "duration": 496,
+        "owner": "ELA",
+        "participants": [
+            "ELA",
+            "ULA",
+            "Roman"
+        ]
+    },
+    {
+        "title": "drink beer",
+        "location": "LA",
+        "start_time": "22-05-2022 15:35",
+        "duration": 414,
+        "owner": "Roman",
+        "participants": [
+            "OLA",
+            "OLA",
+            "ELA",
+            "OLA"
+        ]
+    },
+    {
+        "title": "drink beer",
+        "location": "Wwa",
+        "start_time": "31-05-2022 22:20",
+        "duration": 318,
+        "owner": "ELA",
+        "participants": []
+    },
+    {
+        "title": "do something",
+        "location": "Krk",
+        "start_time": "18-06-2022 06:34",
+        "duration": 355,
+        "owner": "OLA",
+        "participants": [
+            "Ala",
+            "Roman",
+            "ULA",
+            "Ala",
+            "OLA"
+        ]
+    },
+    {
+        "title": "drink beer",
+        "location": "Wwa",
+        "start_time": "18-06-2022 14:48",
+        "duration": 456,
+        "owner": "ULA",
+        "participants": []
+    },
+    {
+        "title": "learn python",
+        "location": "Wwa",
+        "start_time": "29-05-2022 23:42",
+        "duration": 87,
+        "owner": "ULA",
+        "participants": []
+    },
+    {
+        "title": "drink beer",
+        "location": "Wwa",
+        "start_time": "19-05-2022 13:23",
+        "duration": 114,
+        "owner": "ULA",
+        "participants": [
+            "OLA",
+            "Roman",
+            "ELA",
+            "OLA",
+            "ELA"
+        ]
+    },
+    {
+        "title": "do something",
+        "location": "Krk",
+        "start_time": "14-06-2022 11:12",
+        "duration": 177,
+        "owner": "OLA",
+        "participants": []
+    },
+    {
+        "title": "do something",
+        "location": "LA",
+        "start_time": "29-05-2022 06:58",
+        "duration": 567,
+        "owner": "ELA",
+        "participants": []
+    },
+    {
+        "title": "do something",
+        "location": "Krk",
+        "start_time": "02-06-2022 13:12",
+        "duration": 569,
+        "owner": "ULA",
+        "participants": []
+    },
+    {
+        "title": "do something",
+        "location": "LA",
+        "start_time": "02-06-2022 09:03",
+        "duration": 394,
+        "owner": "Roman",
+        "participants": [
+            "Roman"
+        ]
+    },
+    {
+        "title": "do something",
+        "location": "LA",
+        "start_time": "20-05-2022 10:07",
+        "duration": 575,
+        "owner": "Ala",
+        "participants": [
+            "Ala",
+            "OLA",
+            "Roman",
+            "ULA",
+            "Ala"
+        ]
+    },
+    {
+        "title": "do something",
+        "location": "LA",
+        "start_time": "21-05-2022 16:46",
+        "duration": 42,
+        "owner": "Ala",
+        "participants": [
+            "ELA",
+            "Ala",
+            "Roman"
+        ]
+    },
+    {
+        "title": "drink beer",
+        "location": "Krk",
+        "start_time": "22-05-2022 14:07",
+        "duration": 222,
+        "owner": "ULA",
+        "participants": []
+    },
+    {
+        "title": "do something",
+        "location": "Krk",
+        "start_time": "20-05-2022 00:55",
+        "duration": 321,
+        "owner": "OLA",
+        "participants": [
+            "ULA"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "Krk",
+        "start_time": "10-06-2022 15:52",
+        "duration": 271,
+        "owner": "Roman",
+        "participants": []
+    },
+    {
+        "title": "do something",
+        "location": "LA",
+        "start_time": "24-05-2022 19:21",
+        "duration": 178,
+        "owner": "Ala",
+        "participants": []
+    },
+    {
+        "title": "do something",
+        "location": "LA",
+        "start_time": "04-06-2022 05:57",
+        "duration": 207,
+        "owner": "Roman",
+        "participants": [
+            "Ala"
+        ]
+    },
+    {
+        "title": "drink beer",
+        "location": "Krk",
+        "start_time": "18-05-2022 14:50",
+        "duration": 434,
+        "owner": "Ala",
+        "participants": [
+            "ULA",
+            "OLA",
+            "Roman"
+        ]
+    },
+    {
+        "title": "do something",
+        "location": "Wwa",
+        "start_time": "23-05-2022 09:40",
+        "duration": 555,
+        "owner": "OLA",
+        "participants": []
+    },
+    {
+        "title": "do something",
+        "location": "LA",
+        "start_time": "11-06-2022 23:02",
+        "duration": 86,
+        "owner": "ULA",
+        "participants": [
+            "Ala",
+            "Ala",
+            "Roman"
+        ]
+    },
+    {
+        "title": "do something",
+        "location": "Krk",
+        "start_time": "27-05-2022 00:50",
+        "duration": 141,
+        "owner": "OLA",
+        "participants": [
+            "Roman",
+            "ELA",
+            "ULA",
+            "OLA"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "Krk",
+        "start_time": "15-06-2022 16:50",
+        "duration": 329,
+        "owner": "Roman",
+        "participants": [
+            "OLA",
+            "ULA",
+            "Roman",
+            "ELA"
+        ]
+    },
+    {
+        "title": "drink beer",
+        "location": "LA",
+        "start_time": "23-05-2022 23:40",
+        "duration": 52,
+        "owner": "ULA",
+        "participants": [
+            "OLA"
+        ]
+    },
+    {
+        "title": "drink beer",
+        "location": "LA",
+        "start_time": "08-06-2022 04:23",
+        "duration": 455,
+        "owner": "Ala",
+        "participants": [
+            "ELA",
+            "Ala"
+        ]
+    },
+    {
+        "title": "drink beer",
+        "location": "Wwa",
+        "start_time": "08-06-2022 18:47",
+        "duration": 383,
+        "owner": "OLA",
+        "participants": [
+            "ULA",
+            "ULA",
+            "Roman",
+            "OLA"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "Krk",
+        "start_time": "12-06-2022 15:52",
+        "duration": 554,
+        "owner": "Ala",
+        "participants": []
+    },
+    {
+        "title": "do something",
+        "location": "LA",
+        "start_time": "26-05-2022 22:17",
+        "duration": 416,
+        "owner": "OLA",
+        "participants": []
+    },
+    {
+        "title": "learn python",
+        "location": "Wwa",
+        "start_time": "02-06-2022 19:38",
+        "duration": 536,
+        "owner": "ELA",
+        "participants": [
+            "ULA",
+            "ULA"
+        ]
+    },
+    {
+        "title": "do something",
+        "location": "LA",
+        "start_time": "23-05-2022 20:35",
+        "duration": 299,
+        "owner": "Ala",
+        "participants": [
+            "OLA",
+            "Roman",
+            "OLA",
+            "Ala"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "Wwa",
+        "start_time": "16-06-2022 21:41",
+        "duration": 33,
+        "owner": "Roman",
+        "participants": [
+            "ULA"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "Wwa",
+        "start_time": "04-06-2022 08:10",
+        "duration": 54,
+        "owner": "Ala",
+        "participants": [
+            "Ala",
+            "Roman",
+            "OLA",
+            "ELA"
+        ]
+    },
+    {
+        "title": "do something",
+        "location": "LA",
+        "start_time": "28-05-2022 04:14",
+        "duration": 217,
+        "owner": "ELA",
+        "participants": []
+    },
+    {
+        "title": "learn python",
+        "location": "Wwa",
+        "start_time": "22-05-2022 06:30",
+        "duration": 126,
+        "owner": "OLA",
+        "participants": [
+            "Ala",
+            "OLA"
+        ]
+    },
+    {
+        "title": "do something",
+        "location": "Krk",
+        "start_time": "21-05-2022 23:40",
+        "duration": 202,
+        "owner": "ELA",
+        "participants": []
+    },
+    {
+        "title": "drink beer",
+        "location": "Krk",
+        "start_time": "27-05-2022 16:16",
+        "duration": 184,
+        "owner": "ELA",
+        "participants": [
+            "ULA",
+            "ELA",
+            "ELA"
+        ]
+    },
+    {
+        "title": "drink beer",
+        "location": "Krk",
+        "start_time": "04-06-2022 02:42",
+        "duration": 286,
+        "owner": "ELA",
+        "participants": []
+    },
+    {
+        "title": "learn python",
+        "location": "LA",
+        "start_time": "23-05-2022 01:06",
+        "duration": 74,
+        "owner": "ULA",
+        "participants": [
+            "ULA",
+            "Ala",
+            "Ala"
+        ]
+    },
+    {
+        "title": "drink beer",
+        "location": "Wwa",
+        "start_time": "22-05-2022 15:56",
+        "duration": 538,
+        "owner": "OLA",
+        "participants": [
+            "ULA",
+            "OLA",
+            "Roman"
+        ]
+    },
+    {
+        "title": "drink beer",
+        "location": "LA",
+        "start_time": "26-05-2022 14:14",
+        "duration": 275,
+        "owner": "Roman",
+        "participants": [
+            "Ala",
+            "Roman"
+        ]
+    },
+    {
+        "title": "drink beer",
+        "location": "LA",
+        "start_time": "16-05-2022 12:06",
+        "duration": 127,
+        "owner": "ELA",
+        "participants": [
+            "ELA",
+            "OLA"
+        ]
+    },
+    {
+        "title": "do something",
+        "location": "LA",
+        "start_time": "28-05-2022 21:59",
+        "duration": 284,
+        "owner": "Ala",
+        "participants": [
+            "Roman"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "Krk",
+        "start_time": "01-06-2022 16:25",
+        "duration": 461,
+        "owner": "ELA",
+        "participants": [
+            "Roman",
+            "OLA",
+            "ELA",
+            "OLA",
+            "Ala"
+        ]
+    },
+    {
+        "title": "do something",
+        "location": "LA",
+        "start_time": "30-05-2022 23:33",
+        "duration": 541,
+        "owner": "OLA",
+        "participants": [
+            "Ala",
+            "ULA",
+            "OLA",
+            "Ala"
+        ]
+    },
+    {
+        "title": "do something",
+        "location": "Krk",
+        "start_time": "16-06-2022 14:35",
+        "duration": 248,
+        "owner": "Ala",
+        "participants": [
+            "Ala",
+            "OLA",
+            "ELA"
+        ]
+    },
+    {
+        "title": "do something",
+        "location": "Wwa",
+        "start_time": "08-06-2022 21:19",
+        "duration": 339,
+        "owner": "ULA",
+        "participants": [
+            "ULA",
+            "ULA",
+            "ULA"
+        ]
+    },
+    {
+        "title": "drink beer",
+        "location": "LA",
+        "start_time": "21-05-2022 01:07",
+        "duration": 297,
+        "owner": "OLA",
+        "participants": [
+            "ULA",
+            "OLA",
+            "ELA"
+        ]
+    },
+    {
+        "title": "drink beer",
+        "location": "Krk",
+        "start_time": "31-05-2022 04:59",
+        "duration": 260,
+        "owner": "Ala",
+        "participants": [
+            "OLA",
+            "OLA",
+            "Ala"
+        ]
+    },
+    {
+        "title": "do something",
+        "location": "Wwa",
+        "start_time": "17-05-2022 12:22",
+        "duration": 516,
+        "owner": "Roman",
+        "participants": [
+            "ULA",
+            "Ala",
+            "ELA",
+            "ELA"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "LA",
+        "start_time": "08-06-2022 16:42",
+        "duration": 524,
+        "owner": "Ala",
+        "participants": [
+            "ELA",
+            "ELA"
+        ]
+    },
+    {
+        "title": "do something",
+        "location": "Krk",
+        "start_time": "07-06-2022 21:13",
+        "duration": 376,
+        "owner": "ELA",
+        "participants": [
+            "OLA"
+        ]
+    },
+    {
+        "title": "drink beer",
+        "location": "LA",
+        "start_time": "04-06-2022 07:28",
+        "duration": 333,
+        "owner": "OLA",
+        "participants": [
+            "OLA",
+            "ELA",
+            "Ala",
+            "ULA"
+        ]
+    },
+    {
+        "title": "drink beer",
+        "location": "LA",
+        "start_time": "19-06-2022 15:10",
+        "duration": 359,
+        "owner": "OLA",
+        "participants": [
+            "Ala",
+            "ELA",
+            "Ala"
+        ]
+    },
+    {
+        "title": "learn python",
+        "location": "Krk",
+        "start_time": "19-06-2022 14:04",
+        "duration": 272,
+        "owner": "OLA",
+        "participants": [
+            "ELA",
+            "ELA",
+            "OLA"
+        ]
+    }
+]

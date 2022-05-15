@@ -5,10 +5,16 @@ from event import Event
 from helpers.utils import EventGenerator
 
 data = EventGenerator()
-data.generate(500)
+# data.generate(500)
 
-c = Calendar(data.events)
 
-result = c.get_events_by_date('01-01-2022 00:00')
+# data.save('./data.json')
+events_data = data.load('./data.json')
 
-print(result, len(result))
+# pp(events_data)
+
+event = [Event(**event) for event in events_data]
+
+c = Calendar(event)
+
+pp(c)
